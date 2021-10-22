@@ -1,0 +1,52 @@
+%%% Переопределение именований, чтобы можно было и в преамбуле использовать %%%
+%\renewcommand{\chaptername}{Глава}
+\renewcommand{\appendixname}{Приложение} % (ГОСТ Р 7.0.11-2011, 5.7)
+
+
+%%% Переопределение именований %%%
+\renewcommand{\alsoname}{см. также}
+\renewcommand{\seename}{см.}
+\renewcommand{\headtoname}{вх.}
+\renewcommand{\ccname}{исх.}
+\renewcommand{\enclname}{вкл.}
+\renewcommand{\pagename}{Стр.}
+\renewcommand{\partname}{Часть}
+\renewcommand{\abstractname}{Аннотация}
+\renewcommand{\contentsname}{Оглавление} % (ГОСТ Р 7.0.11-2011, 4)
+\renewcommand{\figurename}{Рисунок} % (ГОСТ Р 7.0.11-2011, 5.3.9)
+\renewcommand{\tablename}{Таблица} % (ГОСТ Р 7.0.11-2011, 5.3.10)
+\renewcommand{\indexname}{Предметный указатель}
+\renewcommand{\listfigurename}{Список рисунков}
+\renewcommand{\listtablename}{Список таблиц}
+\renewcommand{\refname}{\fullbibtitle}
+\renewcommand{\bibname}{\fullbibtitle}
+
+
+	% Новые переменные, которые могут использоваться во всём проекте
+	\newcommand{\authorbibtitle}{Публикации автора по теме диссертации}
+	\newcommand{\fullbibtitle}{Список литературы} % (ГОСТ Р 7.0.11-2011, 4)
+	
+	% %My commands
+	\newcommand{\ISP}{[\textit{ISP}\textsuperscript{+}]\xspace}
+	\newcommand{\Ispp}{Isp\textsuperscript{+}\xspace}
+	\newcommand{\PSI}{[\textit{PSI}\textsuperscript{+}]\xspace}
+	\newcommand{\psim}{[\textit{psi}\textsuperscript{--}]\xspace}
+	\newcommand{\PSIv}[1]{[\textit{PSI}\textsuperscript{+}]\up{#1}\xspace}
+	\newcommand{\isp}{[\textit{isp}\textsuperscript{-}]\xspace}
+	\newcommand{\Ispm}{Isp\textsuperscript{--}\xspace}
+	\newcommand{\sfp}{\textit{sfp1}$\Delta$\xspace}
+	\newcommand{\Saccer}{\textit{Saccharomyces cerevisiae}\xspace}
+	\newcommand{\Scer}{\textit{S.~cerevisiae}\xspace}
+	\newcommand{\PIN}{[\textit{PIN}\textsuperscript{+}]\xspace}
+	
+	\newcommand{\up}{\textsuperscript}
+	\newcommand{\down}{\textsubscript}
+	
+	\newcommand{\mut}[1]{\textit{sup35}$^{\textit{#1}}$}
+	\newcommand{\mutnm}[1]{\textit{sup35NM}$^{\textit{#1}}$}
+	\newcommand{\prot}[1]{Sup35$^{#1}$}
+	\newcommand{\protnm}[1]{Sup35NM$^{#1}$}
+	\newcommand{\plasmid}[1]{sup35-{#1}}
+	\newcommand{\REF}{(\hl{ВСТАВИТЬ ССЫЛКУ})}
+	\newcommand{\comment}[1]{\hl{\# #1 \#}}
+	
