@@ -6,41 +6,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Цель работы}{4}{chapter*.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Обзор литературы}{8}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Обзор литературы}{9}{chapter.1}%
 \babel@toc {english}{}
 \babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Морфо-физиологические адаптации грызунов к подземному образу жизни}{8}{section.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Уровень базового обмена}{8}{section.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Кровяное давление и концентрация газа в крови}{9}{section.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Размер и форма тела}{10}{section.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Зрение}{10}{section.1.1}%
+\contentsline {section}{\numberline {1.1}Морфо-физиологические адаптации грызунов к подземному образу жизни}{9}{section.1.1}%
 \babel@toc {english}{}
 \babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Обоняние и сенсорная чувствительность}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Молекулярные адаптации грызунов к подземному образу жизни}{12}{section.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Навигация}{11}{section.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Когти, передние конечности и строение скелета}{12}{section.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Покровы}{12}{section.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Молекулярные адаптации грызунов к подземному образу жизни}{13}{section.1.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Следы отбора на уровне отдельных генов митохондриального генома}{14}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.1}Следы отбора на уровне отдельных генов митохондриального генома}{13}{subsection.1.2.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}Изменение уровня отбора в митохондриальных белок-кодирующих генах}{15}{subsection.1.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}Следы отбора в ядерных генах}{16}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.3}Следы отбора в ядерных генах}{15}{subsection.1.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Подземные грызуны подсемейства Arvicolinae}{17}{section.1.3}%
+\contentsline {section}{\numberline {1.3}Подземные грызуны подсемейства Arvicolinae}{16}{section.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}Изучение молекулярных адаптаций подземных полевочьих}{19}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.1}Изучение молекулярных адаптаций подземных полевочьих}{18}{subsection.1.3.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Материалы и методы}{20}{chapter.2}%
 \defcounter {refsection}{0}\relax 
@@ -50,17 +34,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Для амплификации отдельных генов методом Сенгера}{20}{subsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Для секвенирования методом NGS}{20}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.2}Для секвенирования методом NGS}{21}{subsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Выделение РНК}{21}{section.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Амплификация отдельных генов методом полимеразной цепной реакции (ПЦР)}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Амплификация отдельных генов методом полимеразной цепной реакции (ПЦР)}{22}{section.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Секвенирование}{22}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Секвенирование}{23}{section.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Секвенирование методом Сенгера}{22}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.1}Секвенирование методом Сенгера}{23}{subsection.2.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}Получение коротких прочтений методом NGS}{23}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.2}Получение коротких прочтений (ридов) методом NGS}{23}{subsection.2.5.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Получение ридов для сборки митохондриальных геномов}{23}{subsection.2.5.2}%
 \defcounter {refsection}{0}\relax 
@@ -70,7 +54,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.6.1}Митохондриальные геномы}{24}{subsection.2.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.2}Транскриптомы}{24}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.2}Транскриптомы}{25}{subsection.2.6.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.7}Выравнивание}{25}{section.2.7}%
 \defcounter {refsection}{0}\relax 
@@ -78,31 +62,29 @@
 \babel@toc {english}{}
 \babel@toc {russian}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.9}Филогенетическая реконструкция}{25}{section.2.9}%
+\contentsline {section}{\numberline {2.9}Филогенетическая реконструкция}{26}{section.2.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.9.1}По гену \textit {cytB} и семи ядерным генам}{25}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.1}По гену \textit {CYTB} и семи ядерным генам}{26}{subsection.2.9.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.9.2}По митохондриальным геномам}{26}{subsection.2.9.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.9.3}По ортологичным ядерным генам}{26}{subsection.2.9.3}%
+\contentsline {subsection}{\numberline {2.9.3}По ортологичным ядерным генам}{27}{subsection.2.9.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.10}Оценка аминокислотных замен и их распределения}{27}{section.2.10}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.10.1}Цитохром \textit {b}}{27}{subsection.2.10.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.10.2}Митохондриальные геномы и транскриптомы}{27}{subsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.10.2}Митохондриальные геномы и транскриптомы}{28}{subsection.2.10.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.11}Оценка уровня отбора}{28}{section.2.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.12}Моделирование и визуализация третичной структуры белков}{28}{section.2.12}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.12.1}Замены в белке \textit {CYTB}}{28}{subsection.2.12.1}%
+\contentsline {section}{\numberline {2.12}Моделирование и визуализация третичной структуры \textit {CYTB}}{29}{section.2.12}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.13}Предсказание сайтов фосфорилирования}{29}{section.2.13}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Результаты}{30}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Поиск следов отбора в гене \textit {CYTB} }{30}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Поиск следов отбора в гене \textit {CYTB}}{30}{section.3.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.1}Поиск параллельных аминокислотных замен}{30}{subsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
@@ -112,41 +94,41 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Поиск следов отбора в митохондриальных геномах}{37}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Сборка митохондриальных геномов}{37}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.1}Характеристика собранных митохондриальных геномов}{37}{subsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.2}Анализ частоты несинонимичных замен}{38}{subsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Поиск паралельных аминокислотных замен}{39}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.3}Поиск параллельных аминокислотных замен}{39}{subsection.3.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Оценка уровня отбора}{40}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.4}Оценка уровня и направления отбора}{40}{subsection.3.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Поиск следов отбора в транскриптомах}{46}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Поиск следов отбора в транскриптомах}{47}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Сборка транскриптомов}{46}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.1}Сборка транскриптомов}{47}{subsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Оценка уровня отбора}{46}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.2}Оценка уровня отбора}{47}{subsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Анализ частоты несинонимичных замен}{46}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.3}Анализ частоты несинонимичных замен}{47}{subsection.3.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Оценка паралелльных аминокислотных замен}{47}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.4}Оценка параллельных аминокислотных замен}{48}{subsection.3.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Обсуждение}{49}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Обсуждение}{50}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Изменения на молекулярном уровне у полевочьих, перешедших к подземному образу жизни}{49}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Изменения на молекулярном уровне у полевочьих, перешедших к подземному образу жизни}{50}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Изменение нуклеотиного состава митохондриальных геномов}{49}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.1}Изменение нуклеотиного состава митохондриальных геномов}{50}{subsection.4.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Ослабление уровня отбора}{50}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.2}Ослабление уровня отбора}{51}{subsection.4.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.3}Возникновение паралелльных замен}{52}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.3}Возникновение параллельных замен}{53}{subsection.4.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Конвергентные адаптации грызунов к подземному образу жизни}{54}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Конвергентные молекулярные адаптации грызунов к подземному образу жизни}{55}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Заключение}{58}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Заключение}{59}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Выводы}{59}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Выводы}{61}{chapter.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Список литературы}{60}{section*.27}%
+\contentsline {chapter}{Список литературы}{62}{section*.29}%
 \babel@toc {english}{}
 \babel@toc {russian}{}
 \babel@toc {english}{}
@@ -154,10 +136,10 @@
 \defcounter {refsection}{0}\relax 
 \def \cftchappresnum {{\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }{} }\setlength {\cftchapnumwidth }{\widthof {\bfseries {\cyrillictext \CYRP \cyrr \cyri \cyrl \cyro \cyrzh \cyre \cyrn \cyri \cyre }~Ш.\ }}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\CYRA }Виды, используемые в работе}{74}{appendix.A}%
+\contentsline {chapter}{\numberline {\CYRA }Виды, используемые в работе}{76}{appendix.A}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\CYRB }Анализ популяционной изменчивости гена \textit {cytB}}{79}{appendix.B}%
+\contentsline {chapter}{\numberline {\CYRB }Анализ популяционной изменчивости гена \textit {cytB}}{81}{appendix.B}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\CYRV }Характеристика собранных митохондриальных геномов}{84}{appendix.C}%
+\contentsline {chapter}{\numberline {\CYRV }Характеристика собранных митохондриальных геномов}{86}{appendix.C}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {\CYRG }Характеристика собранных транскриптомов}{88}{appendix.D}%
+\contentsline {chapter}{\numberline {\CYRG }Характеристика собранных транскриптомов}{90}{appendix.D}%

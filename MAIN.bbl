@@ -173,6 +173,7 @@
       \strng{authorbibnamehash}{03ca72b345d2634de61b9d128ac658ab}
       \strng{authornamehash}{e588b0798430dd4b6b2354bb16ae17cd}
       \strng{authorfullhash}{03ca72b345d2634de61b9d128ac658ab}
+      \field{extraname}{1}
       \field{sortinit}{A}
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
@@ -197,6 +198,66 @@
       \endverb
       \verb{url}
       \verb http://link.springer.com/10.1134/S0026893309050148
+      \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Abramson2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9114efdcfdb24c2e8813f1415ec73ea5}{%
+           family={Abramson},
+           familyi={A\bibinitperiod},
+           given={Natalia\bibnamedelima I.},
+           giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=97e9882c78de398ad885f44c2adbc1d6}{%
+           family={Bodrov},
+           familyi={B\bibinitperiod},
+           given={Semyon\bibnamedelima Yu},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=07130b597e804cb5f101d2e82590113b}{%
+           family={Bondareva},
+           familyi={B\bibinitperiod},
+           given={Olga\bibnamedelima V.},
+           giveni={O\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=6ccb4c5b861261eada67364f3636cec4}{%
+           family={Genelt-Yanovskiy},
+           familyi={G\bibinithyphendelim Y\bibinitperiod},
+           given={Evgeny\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=368957e5a0e6bd81121d9ae83a9b7eb7}{%
+           family={Petrova},
+           familyi={P\bibinitperiod},
+           given={Tatyana\bibnamedelima V.},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{0b996719f56a7f86f9049cc631a7caee}
+      \strng{fullhash}{e7463f85e2ac3624404acd7df2cfd469}
+      \strng{bibnamehash}{e7463f85e2ac3624404acd7df2cfd469}
+      \strng{authorbibnamehash}{e7463f85e2ac3624404acd7df2cfd469}
+      \strng{authornamehash}{0b996719f56a7f86f9049cc631a7caee}
+      \strng{authorfullhash}{e7463f85e2ac3624404acd7df2cfd469}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS ONE}
+      \field{month}{11}
+      \field{title}{{A mitochondrial genome phylogeny of voles and lemmings (Rodentia: Arvicolinae): Evolutionary and taxonomic implications}}
+      \field{year}{2021}
+      \field{number}{11 November}
+      \range{number}{-1}
+      \field{volume}{16}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1371/JOURNAL.PONE.0248198
+      \endverb
+      \verb{file}
+      \verb :C\:/Users/institute/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Abramson et al. - 2021 - A mitochondrial genome phylogeny of voles and lemmings (Rodentia Arvicolinae) Evolutionary and taxonomic implic.pdf:pdf
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -461,50 +522,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Arieli1979}{article}{}
-      \name{author}{1}{}{%
-        {{hash=cc446042fac76123a54a9297e8f8a2c1}{%
-           family={Arieli},
-           familyi={A\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{cc446042fac76123a54a9297e8f8a2c1}
-      \strng{fullhash}{cc446042fac76123a54a9297e8f8a2c1}
-      \strng{bibnamehash}{cc446042fac76123a54a9297e8f8a2c1}
-      \strng{authorbibnamehash}{cc446042fac76123a54a9297e8f8a2c1}
-      \strng{authornamehash}{cc446042fac76123a54a9297e8f8a2c1}
-      \strng{authorfullhash}{cc446042fac76123a54a9297e8f8a2c1}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Comparative Biochemistry and Physiology Part A: Physiology}
-      \field{month}{1}
-      \field{title}{{The atmospheric environment of the fossorial mole rat (Spalax ehrenbergi): Effects of season, soil texture, rain, temperature and activity}}
-      \field{year}{1979}
-      \field{number}{4}
-      \range{number}{1}
-      \field{pages}{569\bibrangedash 575}
-      \range{pages}{7}
-      \field{volume}{63}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1016/0300-9629(79)90197-X
-      \endverb
-      \verb{file}
-      \verb :C\:/Users/institute/Desktop/BIOINF Оля/SCIENCE/ВКР/3.TheatmosphericenvironmentofthefossorialmoleratSpalaxehrenbergieffectsofseasonsoiltextureraintemperatureandactivity.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/030096297990197X
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/030096297990197X
-      \endverb
-      \keyw{bibliofull}
-    \endentry
     \entry{ARMSTRONG1961}{article}{}
       \name{author}{2}{}{%
         {{hash=7292f6aacea80d0644dd06023cb1963b}{%
@@ -656,57 +673,6 @@
       \endverb
       \verb{url}
       \verb http://doi.wiley.com/10.1016/S0014-5793%2899%2900584-0
-      \endverb
-      \keyw{bibliofull}
-    \endentry
-    \entry{Balakirev2012}{article}{}
-      \name{author}{3}{}{%
-        {{hash=77cb9ef92f5b6fc95b15d6e1d550fb11}{%
-           family={Balakirev},
-           familyi={B\bibinitperiod},
-           given={A.E.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0039ac40074b91d27d4bd0ecf94ab509}{%
-           family={Abramov},
-           familyi={A\bibinitperiod},
-           given={A.V.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1ea488057029bc5d5b17c0f6694be65e}{%
-           family={Rozhnov},
-           familyi={R\bibinitperiod},
-           given={V.V.},
-           giveni={V\bibinitperiod}}}%
-      }
-      \strng{namehash}{78d52917adc45f80e5a258aec56770be}
-      \strng{fullhash}{cedeaf8115cb3851a8ad2807a429cb11}
-      \strng{bibnamehash}{cedeaf8115cb3851a8ad2807a429cb11}
-      \strng{authorbibnamehash}{cedeaf8115cb3851a8ad2807a429cb11}
-      \strng{authornamehash}{78d52917adc45f80e5a258aec56770be}
-      \strng{authorfullhash}{cedeaf8115cb3851a8ad2807a429cb11}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Russian Journal of Theriology}
-      \field{month}{1}
-      \field{title}{{Taxonomic revision of Niviventer (Rodentia, Muridae) from Vietnam: a morphological and molecular approach}}
-      \field{year}{2012}
-      \field{number}{1}
-      \range{number}{1}
-      \field{pages}{1\bibrangedash 26}
-      \range{pages}{26}
-      \field{volume}{10}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.15298/rusjtheriol.10.1.01
-      \endverb
-      \verb{urlraw}
-      \verb http://kmkjournals.com/upload/PDF/RJT/10/ther10_1_01_26_Balakirev.pdf
-      \endverb
-      \verb{url}
-      \verb http://kmkjournals.com/upload/PDF/RJT/10/ther10_1_01_26_Balakirev.pdf
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -913,6 +879,67 @@
       \endverb
       \verb{url}
       \verb http://www.liebertpub.com/doi/10.1089/cmb.2012.0021
+      \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Bannikova2013}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9f81c90cf5ba301f69defecf661460ae}{%
+           family={Bannikova},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4483ee1c765acc6dd36663a22cefc9c4}{%
+           family={Sighazeva},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f2481d471770441665c7a6d1b0d52c28}{%
+           family={Malikov},
+           familyi={M\bibinitperiod},
+           given={V.\bibnamedelimi G.},
+           giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=4de471103294e22d07110b61a641b831}{%
+           family={Golenishchev},
+           familyi={G\bibinitperiod},
+           given={F.\bibnamedelimi N.},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=049d599d88d6d387d1910eed4f88c556}{%
+           family={Dzuev},
+           familyi={D\bibinitperiod},
+           given={R.\bibnamedelimi I.},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{0185e53cd3d751a9553741f3e7b0fea2}
+      \strng{fullhash}{eeceae739fd702ae1dcf7958d1477d0b}
+      \strng{bibnamehash}{eeceae739fd702ae1dcf7958d1477d0b}
+      \strng{authorbibnamehash}{eeceae739fd702ae1dcf7958d1477d0b}
+      \strng{authornamehash}{0185e53cd3d751a9553741f3e7b0fea2}
+      \strng{authorfullhash}{eeceae739fd702ae1dcf7958d1477d0b}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Russian Journal of Genetics}
+      \field{month}{5}
+      \field{title}{{Genetic diversity of Chionomys genus (Mammalia, Arvicolinae) and comparative phylogeography of snow voles}}
+      \field{year}{2013}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{561\bibrangedash 575}
+      \range{pages}{15}
+      \field{volume}{49}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1134/S1022795413050025
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1134/S1022795413050025
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1134/S1022795413050025
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -1361,45 +1388,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Burda1990}{article}{}
-      \name{author}{3}{}{%
-        {{hash=a21c293f37bc6c20d2ecf0637199c053}{%
-           family={Burda},
-           familyi={B\bibinitperiod},
-           given={H},
-           giveni={H\bibinitperiod}}}%
-        {{hash=4fde7216ed30daf74542aeb8dbe8e8d2}{%
-           family={Bruns},
-           familyi={B\bibinitperiod},
-           given={V},
-           giveni={V\bibinitperiod}}}%
-        {{hash=835b1fbb43107ab05d062477c10a3889}{%
-           family={Müller},
-           familyi={M\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{2e5b01fe14070e8da80b002b9ac0ab10}
-      \strng{fullhash}{ab05cc28ca22b7de67c46e65c7a685e7}
-      \strng{bibnamehash}{ab05cc28ca22b7de67c46e65c7a685e7}
-      \strng{authorbibnamehash}{ab05cc28ca22b7de67c46e65c7a685e7}
-      \strng{authornamehash}{2e5b01fe14070e8da80b002b9ac0ab10}
-      \strng{authorfullhash}{ab05cc28ca22b7de67c46e65c7a685e7}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Prog Clin Biol Res.}
-      \field{title}{{Sensory adaptations in subterranean mammals.}}
-      \field{year}{1990}
-      \field{number}{335}
-      \range{number}{1}
-      \field{pages}{269\bibrangedash 293}
-      \range{pages}{25}
-      \keyw{bibliofull}
-    \endentry
     \entry{Cai2018}{article}{}
       \name{author}{13}{}{%
         {{hash=66f516cb0946eaa883256c0d4db23cbf}{%
@@ -1822,31 +1810,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Darwin1872}{article}{}
-      \name{author}{1}{}{%
-        {{hash=a14236c2ceb2dd05dcdab8227460aea1}{%
-           family={Darwin},
-           familyi={D\bibinitperiod},
-           given={C},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{a14236c2ceb2dd05dcdab8227460aea1}
-      \strng{fullhash}{a14236c2ceb2dd05dcdab8227460aea1}
-      \strng{bibnamehash}{a14236c2ceb2dd05dcdab8227460aea1}
-      \strng{authorbibnamehash}{a14236c2ceb2dd05dcdab8227460aea1}
-      \strng{authornamehash}{a14236c2ceb2dd05dcdab8227460aea1}
-      \strng{authorfullhash}{a14236c2ceb2dd05dcdab8227460aea1}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{London}
-      \field{title}{{The expression of the emotions in man and animals}}
-      \field{year}{1872}
-      \keyw{bibliofull}
-    \endentry
     \entry{Davies2018}{article}{}
       \name{author}{4}{}{%
         {{hash=3249df63b0d41c8a3a7b3a70fb15769c}{%
@@ -2262,55 +2225,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Gambaryan1957}{article}{}
-      \name{author}{5}{}{%
-        {{hash=31170500729e5d41d4e3c62a00faefbe}{%
-           family={Gambaryan},
-           familyi={G\bibinitperiod},
-           given={P.P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=af501f76eeba702172ab81e4750a4ef4}{%
-           family={Karapetyan},
-           familyi={K\bibinitperiod},
-           given={V.S.},
-           giveni={V\bibinitperiod}}}%
-        {{hash=e02f0419d79dbf30cd46127b8cb388c0}{%
-           family={Ayrumyan},
-           familyi={A\bibinitperiod},
-           given={K.A.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=2c2a8ed8dfa2905e9d5d967da1a4f338}{%
-           family={Kazaryan},
-           familyi={K\bibinitperiod},
-           given={K.G.},
-           giveni={K\bibinitperiod}}}%
-        {{hash=c0f200e19150de740bd0911d430dfe90}{%
-           family={Mezhlumyan},
-           familyi={M\bibinitperiod},
-           given={S.K.},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{184d596dc22d371bfc97cde8f7db093c}
-      \strng{fullhash}{1db48f1413c5cc3597520ff23681ae10}
-      \strng{bibnamehash}{1db48f1413c5cc3597520ff23681ae10}
-      \strng{authorbibnamehash}{1db48f1413c5cc3597520ff23681ae10}
-      \strng{authornamehash}{184d596dc22d371bfc97cde8f7db093c}
-      \strng{authorfullhash}{1db48f1413c5cc3597520ff23681ae10}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Materials on the study of the fauna of the Armenian SSR (Zoologicheskii Sbornik, 10)}
-      \field{title}{{To the Ecology of the Long-Clawed Mole Vole Prometheomys Schaposchnikovi Sat.}}
-      \field{year}{1957}
-      \field{number}{5\bibrangedash 16}
-      \range{number}{12}
-      \field{volume}{3}
-      \range{volume}{1}
-      \keyw{bibliofull}
-    \endentry
     \entry{Gao2003}{article}{}
       \name{author}{7}{}{%
         {{hash=917e5271e9995cb84635286717323750}{%
@@ -2645,72 +2559,6 @@
       \endverb
       \verb{url}
       \verb https://www.nature.com/articles/nbt.1883
-      \endverb
-      \keyw{bibliofull}
-    \endentry
-    \entry{Gurnett1984}{article}{}
-      \name{author}{6}{}{%
-        {{hash=324d21f2c79c9e7eb4701ac718fd3a4b}{%
-           family={Gurnett},
-           familyi={G\bibinitperiod},
-           given={Anne\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=fd72dda32c380cb4fe156534a7d3e15a}{%
-           family={O'Connell},
-           familyi={O\bibinitperiod},
-           given={James\bibnamedelima P.},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=341f6987e7188dacde47ef1b648f88c6}{%
-           family={Harris},
-           familyi={H\bibinitperiod},
-           given={David\bibnamedelima E.},
-           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=e39fa5c13185c26edbd2a881cecfaa0c}{%
-           family={Lehmann},
-           familyi={L\bibinitperiod},
-           given={Hermann},
-           giveni={H\bibinitperiod}}}%
-        {{hash=aa5e877ffb5f8c3b2ea0e278520f01d0}{%
-           family={Joysey},
-           familyi={J\bibinitperiod},
-           given={Kenneth\bibnamedelima A.},
-           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=0bdd75e00218210f375ba8a59f7b3d3e}{%
-           family={Nevo},
-           familyi={N\bibinitperiod},
-           given={Eviatar},
-           giveni={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{e35a08e5ed7290aa832467ec9171e25e}
-      \strng{fullhash}{a52d482725a52ae5dd5044a32f5f4672}
-      \strng{bibnamehash}{a52d482725a52ae5dd5044a32f5f4672}
-      \strng{authorbibnamehash}{a52d482725a52ae5dd5044a32f5f4672}
-      \strng{authornamehash}{e35a08e5ed7290aa832467ec9171e25e}
-      \strng{authorfullhash}{a52d482725a52ae5dd5044a32f5f4672}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Protein Chemistry}
-      \field{month}{12}
-      \field{title}{{The myoglobin of rodents:Lagostomus maximus (viscacha) andSpalax ehrenbergi (mole rat)}}
-      \field{year}{1984}
-      \field{number}{5\bibrangedash 6}
-      \range{number}{2}
-      \field{pages}{445\bibrangedash 454}
-      \range{pages}{10}
-      \field{volume}{3}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1007/BF01025063
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/BF01025063
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/BF01025063
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -3500,57 +3348,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{KLEINSCHMIDT1984}{article}{}
-      \name{author}{3}{}{%
-        {{hash=8785eb2901cf5af130cf4b98a9e2a01b}{%
-           family={Kleainschmidt},
-           familyi={K\bibinitperiod},
-           given={Traute},
-           giveni={T\bibinitperiod}}}%
-        {{hash=0bdd75e00218210f375ba8a59f7b3d3e}{%
-           family={Nevo},
-           familyi={N\bibinitperiod},
-           given={Eviatar},
-           giveni={E\bibinitperiod}}}%
-        {{hash=27b506a8f86949296fffb2f8eb757660}{%
-           family={Braunitzer},
-           familyi={B\bibinitperiod},
-           given={Gerhard},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{53e1738cdaf70fbdc4e8eff6edec7d95}
-      \strng{fullhash}{592b78b63227c0cd8810ddfc756eec7c}
-      \strng{bibnamehash}{592b78b63227c0cd8810ddfc756eec7c}
-      \strng{authorbibnamehash}{592b78b63227c0cd8810ddfc756eec7c}
-      \strng{authornamehash}{53e1738cdaf70fbdc4e8eff6edec7d95}
-      \strng{authorfullhash}{592b78b63227c0cd8810ddfc756eec7c}
-      \field{sortinit}{K}
-      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Hoppe-Seyler´s Zeitschrift für physiologische Chemie}
-      \field{month}{1}
-      \field{title}{{The Primary Structure of the Hemoglobin of the Mole Rat (Spalax ehrenbergi, Rodentia, Chromosome Species 60)}}
-      \field{year}{1984}
-      \field{number}{1}
-      \range{number}{1}
-      \field{pages}{531\bibrangedash 538}
-      \range{pages}{8}
-      \field{volume}{365}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1515/bchm2.1984.365.1.531
-      \endverb
-      \verb{urlraw}
-      \verb https://www.degruyter.com/view/j/bchm2.1984.365.issue-1/bchm2.1984.365.1.531/bchm2.1984.365.1.531.xml https://www.degruyter.com/document/doi/10.1515/bchm2.1984.365.1.531/html
-      \endverb
-      \verb{url}
-      \verb https://www.degruyter.com/view/j/bchm2.1984.365.issue-1/bchm2.1984.365.1.531/bchm2.1984.365.1.531.xml%20https://www.degruyter.com/document/doi/10.1515/bchm2.1984.365.1.531/html
-      \endverb
-      \keyw{bibliofull}
-    \endentry
     \entry{KosakovskyPond2011}{article}{}
       \name{author}{6}{}{%
         {{hash=fea9bd15addb6212ee0cf25a3220fbf7}{%
@@ -3844,6 +3641,7 @@
       \strng{authorbibnamehash}{55859d21294b1aa40b0897747301f57a}
       \strng{authornamehash}{6a975a4efd84e7873fc1f355814bae99}
       \strng{authorfullhash}{55859d21294b1aa40b0897747301f57a}
+      \field{extraname}{1}
       \field{sortinit}{L}
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
       \field{extradatescope}{labelyear}
@@ -3871,6 +3669,66 @@
       \endverb
       \verb{url}
       \verb http://doi.wiley.com/10.1111/zsc.12440
+      \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Lebedev2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e381943d7ed6ba038fdf90cbe57b7acc}{%
+           family={Lebedev},
+           familyi={L\bibinitperiod},
+           given={Vladimir\bibnamedelima S.},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0390efd75a94bb7d7f8c03862b3aae94}{%
+           family={Bannikova},
+           familyi={B\bibinitperiod},
+           given={Anna\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4c32e897497f2e437f289ec7993edf04}{%
+           family={Tesakov},
+           familyi={T\bibinitperiod},
+           given={Alexey\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9114efdcfdb24c2e8813f1415ec73ea5}{%
+           family={Abramson},
+           familyi={A\bibinitperiod},
+           given={Natalia\bibnamedelima I.},
+           giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{dde270e9e0cf1d3cc4a91649a80395fb}
+      \strng{fullhash}{2c24f23337d9053e675c1d001bcf562c}
+      \strng{bibnamehash}{2c24f23337d9053e675c1d001bcf562c}
+      \strng{authorbibnamehash}{2c24f23337d9053e675c1d001bcf562c}
+      \strng{authornamehash}{dde270e9e0cf1d3cc4a91649a80395fb}
+      \strng{authorfullhash}{2c24f23337d9053e675c1d001bcf562c}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zoologica Scripta}
+      \field{month}{11}
+      \field{title}{{Molecular phylogeny of the genus Alticola (Cricetidae, Rodentia) as inferred from the sequence of the cytochrome b gene}}
+      \field{year}{2007}
+      \field{number}{6}
+      \range{number}{1}
+      \field{pages}{547\bibrangedash 563}
+      \range{pages}{17}
+      \field{volume}{36}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1111/j.1463-6409.2007.00300.x
+      \endverb
+      \verb{file}
+      \verb :C\:/Users/institute/Desktop/BIOINF Оля/SCIENCE/CytB/Papers/to add Mendeley/Lebedev_et_al-2007-Zoologica_Scripta.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1463-6409.2007.00300.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/j.1463-6409.2007.00300.x
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -4864,6 +4722,33 @@
       \endverb
       \keyw{bibliofull}
     \endentry
+    \entry{Musser2005}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=06b39d179f913121737794a8c30eacf3}{%
+           family={Musser},
+           familyi={M\bibinitperiod},
+           given={Guy\bibnamedelima G},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{fullhash}{06b39d179f913121737794a8c30eacf3}
+      \strng{bibnamehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{authorbibnamehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{authornamehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{authorfullhash}{06b39d179f913121737794a8c30eacf3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mammal species of the world}
+      \field{title}{{Superfamily muroidea}}
+      \field{year}{2005}
+      \field{pages}{894\bibrangedash 1531}
+      \range{pages}{638}
+      \keyw{bibliofull}
+    \endentry
     \entry{Nevo1979}{article}{}
       \name{author}{1}{}{%
         {{hash=0bdd75e00218210f375ba8a59f7b3d3e}{%
@@ -4973,6 +4858,118 @@
       \endverb
       \keyw{bibliofull}
     \endentry
+    \entry{Ohdachi2001}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b43070629ae95ce5119287df38866999}{%
+           family={Ohdachi},
+           familyi={O\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=551a7e82eb8178114c18028f0bd1bb49}{%
+           family={Dokuchaev},
+           familyi={D\bibinitperiod},
+           given={Nikolai\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fe249cc56acd2394743f2831ce044f75}{%
+           family={Hasegawa},
+           familyi={H\bibinitperiod},
+           given={Masami},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1bb91029c584866ddb9a3b595049e9d9}{%
+           family={Masuda},
+           familyi={M\bibinitperiod},
+           given={Ryuichi},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d77d9d64d41f5328692fed82a8da76dc}
+      \strng{fullhash}{f1fca75e008c0f0ae47a581f3298c693}
+      \strng{bibnamehash}{f1fca75e008c0f0ae47a581f3298c693}
+      \strng{authorbibnamehash}{f1fca75e008c0f0ae47a581f3298c693}
+      \strng{authornamehash}{d77d9d64d41f5328692fed82a8da76dc}
+      \strng{authorfullhash}{f1fca75e008c0f0ae47a581f3298c693}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Ecology}
+      \field{month}{9}
+      \field{title}{{Intraspecific phylogeny and geographical variation of six species of northeastern Asiatic Sorex shrews based on the mitochondrial cytochrome b sequences}}
+      \field{year}{2001}
+      \field{number}{9}
+      \range{number}{1}
+      \field{pages}{2199\bibrangedash 2213}
+      \range{pages}{15}
+      \field{volume}{10}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1046/j.1365-294X.2001.01359.x
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1046/j.1365-294X.2001.01359.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1046/j.1365-294X.2001.01359.x
+      \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Petrova2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=368957e5a0e6bd81121d9ae83a9b7eb7}{%
+           family={Petrova},
+           familyi={P\bibinitperiod},
+           given={Tatyana\bibnamedelima V.},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=4c32e897497f2e437f289ec7993edf04}{%
+           family={Tesakov},
+           familyi={T\bibinitperiod},
+           given={Alexey\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=331ade7c31764a69a6c03a6fc63d7c1b}{%
+           family={Kowalskaya},
+           familyi={K\bibinitperiod},
+           given={Yulia\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9114efdcfdb24c2e8813f1415ec73ea5}{%
+           family={Abramson},
+           familyi={A\bibinitperiod},
+           given={Natalia\bibnamedelima I.},
+           giveni={N\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{44c2eb66b27ee3afab38187664220b77}
+      \strng{fullhash}{6a9b8c8cbdc73db4bb4b1ab5b7084bbf}
+      \strng{bibnamehash}{6a9b8c8cbdc73db4bb4b1ab5b7084bbf}
+      \strng{authorbibnamehash}{6a9b8c8cbdc73db4bb4b1ab5b7084bbf}
+      \strng{authornamehash}{44c2eb66b27ee3afab38187664220b77}
+      \strng{authorfullhash}{6a9b8c8cbdc73db4bb4b1ab5b7084bbf}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zoologica Scripta}
+      \field{month}{11}
+      \field{title}{{Cryptic speciation in the narrow-headed vole Lasiopodomys ( Stenocranius ) gregalis (Rodentia: Cricetidae)}}
+      \field{year}{2016}
+      \field{number}{6}
+      \range{number}{1}
+      \field{pages}{618\bibrangedash 629}
+      \range{pages}{12}
+      \field{volume}{45}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1111/zsc.12176
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1111/zsc.12176
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/zsc.12176
+      \endverb
+      \keyw{bibliofull}
+    \endentry
     \entry{Pohjoismaki2012}{article}{}
       \name{author}{6}{}{%
         {{hash=a7dad9296ae744dfe9bbe1c9229e95f1}{%
@@ -5031,6 +5028,79 @@
       \endverb
       \verb{file}
       \verb :C\:/Users/institute/Desktop/BIOINF Оля/SCIENCE/ВКР/books, papers/Pohioismaki2012.pdf:pdf
+      \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Poux2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0451c91373752db4d7efcc06c3c598d8}{%
+           family={Poux},
+           familyi={P\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c3ebdf03a303de2ed37c4b81c75cd9a7}{%
+           family={Chevret},
+           familyi={C\bibinitperiod},
+           given={Pascale},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5f78b391ef19f4db0475fff8aec55d10}{%
+           family={Huchon},
+           familyi={H\bibinitperiod},
+           given={Dorothée},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4a9f8dc56a5f0249375e029a4e7e35e4}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Wilfried\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=475e18316ce5e406157468cb3f46d2ae}{%
+           family={Douzery},
+           familyi={D\bibinitperiod},
+           given={Emmanuel\bibnamedelimb J.\bibnamedelimi P.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ab645812b312bf78c4b7dabfb75d8c91}{%
+           family={Soltis},
+           familyi={S\bibinitperiod},
+           given={Pam},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd1affc26a7cde6f3dec27716cea8abb}
+      \strng{fullhash}{c17652b3da322126d03a93911612166b}
+      \strng{bibnamehash}{c17652b3da322126d03a93911612166b}
+      \strng{authorbibnamehash}{c17652b3da322126d03a93911612166b}
+      \strng{authornamehash}{cd1affc26a7cde6f3dec27716cea8abb}
+      \strng{authorfullhash}{c17652b3da322126d03a93911612166b}
+      \strng{editorbibnamehash}{ab645812b312bf78c4b7dabfb75d8c91}
+      \strng{editornamehash}{ab645812b312bf78c4b7dabfb75d8c91}
+      \strng{editorfullhash}{ab645812b312bf78c4b7dabfb75d8c91}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Systematic Biology}
+      \field{month}{4}
+      \field{title}{{Arrival and Diversification of Caviomorph Rodents and Platyrrhine Primates in South America}}
+      \field{year}{2006}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{228\bibrangedash 244}
+      \range{pages}{17}
+      \field{volume}{55}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1080/10635150500481390
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/sysbio/article/55/2/228/1621645
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/sysbio/article/55/2/228/1621645
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -5864,36 +5934,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Shubin1978}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=60b9dd68b1ba80ba7205c8781a5c821d}{%
-           family={Shubin},
-           familyi={S\bibinitperiod},
-           given={I.G.},
-           giveni={I\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Publishing House Nauka of Kazakh SSR: Almaata}%
-      }
-      \strng{namehash}{60b9dd68b1ba80ba7205c8781a5c821d}
-      \strng{fullhash}{60b9dd68b1ba80ba7205c8781a5c821d}
-      \strng{bibnamehash}{60b9dd68b1ba80ba7205c8781a5c821d}
-      \strng{authorbibnamehash}{60b9dd68b1ba80ba7205c8781a5c821d}
-      \strng{authornamehash}{60b9dd68b1ba80ba7205c8781a5c821d}
-      \strng{authorfullhash}{60b9dd68b1ba80ba7205c8781a5c821d}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Mammals of Kazakhstan}
-      \field{title}{{The mole voles (Ellobius)}}
-      \field{year}{1978}
-      \field{pages}{188\bibrangedash 207}
-      \range{pages}{20}
-      \keyw{bibliofull}
-    \endentry
     \entry{Smith2015}{article}{}
       \name{author}{6}{}{%
         {{hash=0dd4afdcfea53e6a712fb08dbbb9a0f8}{%
@@ -6123,6 +6163,62 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0169534710002168
+      \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Steppan2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9e554d67362fc159412369fe4b145fc2}{%
+           family={Steppan},
+           familyi={S\bibinitperiod},
+           given={Scott\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8f6f16b21be8a085af73bf414c4980e7}{%
+           family={Schenk},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5279137e31601401be423cf6816f0885}{%
+           family={Huchon},
+           familyi={H\bibinitperiod},
+           given={Dorothee},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5ef6ff2a246a06dd3f2f54f8781555f}
+      \strng{fullhash}{e5ef6ff2a246a06dd3f2f54f8781555f}
+      \strng{bibnamehash}{e5ef6ff2a246a06dd3f2f54f8781555f}
+      \strng{authorbibnamehash}{e5ef6ff2a246a06dd3f2f54f8781555f}
+      \strng{authornamehash}{e5ef6ff2a246a06dd3f2f54f8781555f}
+      \strng{authorfullhash}{e5ef6ff2a246a06dd3f2f54f8781555f}
+      \strng{editorbibnamehash}{5279137e31601401be423cf6816f0885}
+      \strng{editornamehash}{5279137e31601401be423cf6816f0885}
+      \strng{editorfullhash}{5279137e31601401be423cf6816f0885}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{8}
+      \field{title}{{Muroid rodent phylogenetics: 900-species tree reveals increasing diversification rates}}
+      \field{year}{2017}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{e0183070}
+      \range{pages}{-1}
+      \field{volume}{12}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0183070
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pone.0183070
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pone.0183070
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -6688,33 +6784,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Vereshchagin1959}{book}{}
-      \name{author}{1}{}{%
-        {{hash=6e726d0dbbd734fac9930c1bf984ad19}{%
-           family={Vereshchagin},
-           familyi={V\bibinitperiod},
-           given={N.K.},
-           giveni={N\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Publ. Acad. Nauk USSR: Jerusalem}%
-      }
-      \strng{namehash}{6e726d0dbbd734fac9930c1bf984ad19}
-      \strng{fullhash}{6e726d0dbbd734fac9930c1bf984ad19}
-      \strng{bibnamehash}{6e726d0dbbd734fac9930c1bf984ad19}
-      \strng{authorbibnamehash}{6e726d0dbbd734fac9930c1bf984ad19}
-      \strng{authornamehash}{6e726d0dbbd734fac9930c1bf984ad19}
-      \strng{authorfullhash}{6e726d0dbbd734fac9930c1bf984ad19}
-      \field{sortinit}{V}
-      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{The mammals of the Caucasus; a history of the evolution of the fauna.}}
-      \field{year}{1959}
-      \keyw{bibliofull}
-    \endentry
     \entry{Vleck1979}{article}{}
       \name{author}{1}{}{%
         {{hash=4d4be048f0efcd17c0592d664cd60177}{%
@@ -7051,47 +7120,6 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Wilkens1971}{article}{}
-      \name{author}{1}{}{%
-        {{hash=42fa3f59ffc7c0dae0a284b8d6412b97}{%
-           family={Wilkens},
-           familyi={W\bibinitperiod},
-           given={Horst},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{42fa3f59ffc7c0dae0a284b8d6412b97}
-      \strng{fullhash}{42fa3f59ffc7c0dae0a284b8d6412b97}
-      \strng{bibnamehash}{42fa3f59ffc7c0dae0a284b8d6412b97}
-      \strng{authorbibnamehash}{42fa3f59ffc7c0dae0a284b8d6412b97}
-      \strng{authornamehash}{42fa3f59ffc7c0dae0a284b8d6412b97}
-      \strng{authorfullhash}{42fa3f59ffc7c0dae0a284b8d6412b97}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Evolution}
-      \field{month}{9}
-      \field{title}{{Genetic Interpretation of Regressive Evolutionary Processes: Studies on Hybrid Eyes of Two Astyanax Cave Populations (Characidae, Pisces)}}
-      \field{year}{1971}
-      \field{number}{3}
-      \range{number}{1}
-      \field{pages}{530}
-      \range{pages}{1}
-      \field{volume}{25}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.2307/2407352
-      \endverb
-      \verb{urlraw}
-      \verb https://www.jstor.org/stable/2407352?origin=crossref
-      \endverb
-      \verb{url}
-      \verb https://www.jstor.org/stable/2407352?origin=crossref
-      \endverb
-      \keyw{bibliofull}
-    \endentry
     \entry{Woolley2003}{article}{}
       \name{author}{5}{}{%
         {{hash=ac48c5769dde85c747dbcf0ccbf0b738}{%
@@ -7150,47 +7178,6 @@
       \endverb
       \verb{url}
       \verb https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btg043
-      \endverb
-      \keyw{bibliofull}
-    \endentry
-    \entry{Wright1964}{article}{}
-      \name{author}{1}{}{%
-        {{hash=f23690c7a566b5607094b5dc80dd3d22}{%
-           family={Wright},
-           familyi={W\bibinitperiod},
-           given={Sewall},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{f23690c7a566b5607094b5dc80dd3d22}
-      \strng{fullhash}{f23690c7a566b5607094b5dc80dd3d22}
-      \strng{bibnamehash}{f23690c7a566b5607094b5dc80dd3d22}
-      \strng{authorbibnamehash}{f23690c7a566b5607094b5dc80dd3d22}
-      \strng{authornamehash}{f23690c7a566b5607094b5dc80dd3d22}
-      \strng{authorfullhash}{f23690c7a566b5607094b5dc80dd3d22}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The American Naturalist}
-      \field{month}{3}
-      \field{title}{{Pleiotropy in the Evolution of Structural Reduction and of Dominance}}
-      \field{year}{1964}
-      \field{number}{899}
-      \range{number}{1}
-      \field{pages}{65\bibrangedash 69}
-      \range{pages}{5}
-      \field{volume}{98}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1086/282301
-      \endverb
-      \verb{urlraw}
-      \verb https://www.journals.uchicago.edu/doi/10.1086/282301
-      \endverb
-      \verb{url}
-      \verb https://www.journals.uchicago.edu/doi/10.1086/282301
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -7534,38 +7521,109 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Zimina1977}{article}{}
-      \name{author}{2}{}{%
-        {{hash=faddb47767edbd58b749258f9d179542}{%
-           family={Zimina},
-           familyi={Z\bibinitperiod},
-           given={R.P.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=607dc4f4afa9c23c3ad7e90618ba2e30}{%
-           family={Yasny},
-           familyi={Y\bibinitperiod},
-           given={E.V.},
-           giveni={E\bibinitperiod}}}%
+    \entry{Vereshchagin1959}{book}{}
+      \name{author}{1}{}{%
+        {{hash=072bf73fba6848318754a7945ac79cad}{%
+           family={Верещагин},
+           familyi={В\bibinitperiod},
+           given={Н.К.},
+           giveni={Н\bibinitperiod}}}%
       }
-      \strng{namehash}{ff8e1d9fb77c232b520b0d613493ddab}
-      \strng{fullhash}{ff8e1d9fb77c232b520b0d613493ddab}
-      \strng{bibnamehash}{ff8e1d9fb77c232b520b0d613493ddab}
-      \strng{authorbibnamehash}{ff8e1d9fb77c232b520b0d613493ddab}
-      \strng{authornamehash}{ff8e1d9fb77c232b520b0d613493ddab}
-      \strng{authorfullhash}{ff8e1d9fb77c232b520b0d613493ddab}
-      \field{sortinit}{Z}
-      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \list{publisher}{1}{%
+        {АН ССР: Иерусалим}%
+      }
+      \strng{namehash}{072bf73fba6848318754a7945ac79cad}
+      \strng{fullhash}{072bf73fba6848318754a7945ac79cad}
+      \strng{bibnamehash}{072bf73fba6848318754a7945ac79cad}
+      \strng{authorbibnamehash}{072bf73fba6848318754a7945ac79cad}
+      \strng{authornamehash}{072bf73fba6848318754a7945ac79cad}
+      \strng{authorfullhash}{072bf73fba6848318754a7945ac79cad}
+      \field{sortinit}{В}
+      \field{sortinithash}{902012ffa0e35aa229c9a3d688e40f89}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Zool Zhurnal}
-      \field{title}{{Observations on the Ecology of the Long-Clawed Mole Vole.}}
-      \field{year}{1977}
-      \field{pages}{24\bibrangedash 30}
-      \range{pages}{7}
-      \field{volume}{82}
+      \field{title}{{Млекопитающие Кавказа. История формирования фауны}}
+      \field{year}{1959}
+      \keyw{bibliofull}
+    \endentry
+    \entry{Gambaryan1957}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a8d6d0e6140dbd3106cc83f4381a658c}{%
+           family={Гамбарян},
+           familyi={Г\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+        {{hash=2d1c8379592a61c2eeead4c69a2ca4d1}{%
+           family={Карапетян},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi С.},
+           giveni={В\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+        {{hash=644f861e62348aa03506bf4fafda29a9}{%
+           family={Айрумян},
+           familyi={А\bibinitperiod},
+           given={К.\bibnamedelimi А.},
+           giveni={К\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=1d861195869a62acf8e2af2f30aa62c0}{%
+           family={Казарян},
+           familyi={К\bibinitperiod},
+           given={К.\bibnamedelimi Г.},
+           giveni={К\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+        {{hash=dd953a502b6af5ff83059572242d9b80}{%
+           family={Межлумян},
+           familyi={М\bibinitperiod},
+           given={С.\bibnamedelimi К.},
+           giveni={С\bibinitperiod\bibinitdelim К\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cee805710207a7f90cf1b0f12648d44}
+      \strng{fullhash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
+      \strng{bibnamehash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
+      \strng{authorbibnamehash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
+      \strng{authornamehash}{7cee805710207a7f90cf1b0f12648d44}
+      \strng{authorfullhash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
+      \field{sortinit}{Г}
+      \field{sortinithash}{c9e4758aa7cb8c39f466c3722a70f6ee}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Зоологический сборник}
+      \field{title}{{К экологии прометеевой полевки Prometheomys schaposchnikovi sat}}
+      \field{year}{1957}
+      \field{number}{5\bibrangedash 16}
+      \range{number}{12}
+      \field{volume}{10}
       \range{volume}{1}
+      \keyw{bibliofull}
+    \endentry
+    \entry{Gambaryan1960}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c206d3c76c6373fb3c87cff23aa49e53}{%
+           family={Гамбарян},
+           familyi={Г\bibinitperiod},
+           given={Петр\bibnamedelima Петрович},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ереван : Изд-во Акад. наук Арм. ССР}%
+      }
+      \strng{namehash}{c206d3c76c6373fb3c87cff23aa49e53}
+      \strng{fullhash}{c206d3c76c6373fb3c87cff23aa49e53}
+      \strng{bibnamehash}{c206d3c76c6373fb3c87cff23aa49e53}
+      \strng{authorbibnamehash}{c206d3c76c6373fb3c87cff23aa49e53}
+      \strng{authornamehash}{c206d3c76c6373fb3c87cff23aa49e53}
+      \strng{authorfullhash}{c206d3c76c6373fb3c87cff23aa49e53}
+      \field{sortinit}{Г}
+      \field{sortinithash}{c9e4758aa7cb8c39f466c3722a70f6ee}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Приспособительные особенности органов движения роющих млекопитающих}}
+      \field{year}{1960}
+      \field{pages}{195}
+      \range{pages}{1}
       \keyw{bibliofull}
     \endentry
     \entry{Gromov1977}{incollection}{}
@@ -7601,6 +7659,40 @@
       \field{year}{1977}
       \keyw{bibliofull}
     \endentry
+    \entry{Zimina1977}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e399344db091511e38307bb48e0dc341}{%
+           family={Зимина},
+           familyi={З\bibinitperiod},
+           given={Р.П.},
+           giveni={Р\bibinitperiod}}}%
+        {{hash=bf080ce64c353ac3d8f969c99345c571}{%
+           family={Ясный},
+           familyi={Я\bibinitperiod},
+           given={Е.В.},
+           giveni={Е\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dbe573d4a59641753266381138211f2}
+      \strng{fullhash}{3dbe573d4a59641753266381138211f2}
+      \strng{bibnamehash}{3dbe573d4a59641753266381138211f2}
+      \strng{authorbibnamehash}{3dbe573d4a59641753266381138211f2}
+      \strng{authornamehash}{3dbe573d4a59641753266381138211f2}
+      \strng{authorfullhash}{3dbe573d4a59641753266381138211f2}
+      \field{sortinit}{З}
+      \field{sortinithash}{4c89ca29cf4f4eaa9b7400e9f23b3925}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Экология, методы изучения и организация охраны мелких млекопитающих горных областей.}
+      \field{title}{{Новые находки редких млекопитающих на Большом Кавказе}}
+      \field{year}{1977}
+      \field{pages}{63\bibrangedash 64}
+      \range{pages}{2}
+      \field{volume}{82}
+      \range{volume}{1}
+      \keyw{bibliofull}
+    \endentry
     \entry{Ognev1950}{incollection}{}
       \name{author}{1}{}{%
         {{hash=510f7e944413a55a0f6743d029dc69ea}{%
@@ -7629,6 +7721,34 @@
       \field{year}{1950}
       \field{pages}{17\bibrangedash 49}
       \range{pages}{33}
+      \keyw{bibliofull}
+    \endentry
+    \entry{Shubin1978}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e595e6c81c73b9771b90bacd001b467c}{%
+           family={{Шубин И.Г.}},
+           familyi={Ш\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Алма-Ата}%
+      }
+      \strng{namehash}{e595e6c81c73b9771b90bacd001b467c}
+      \strng{fullhash}{e595e6c81c73b9771b90bacd001b467c}
+      \strng{bibnamehash}{e595e6c81c73b9771b90bacd001b467c}
+      \strng{authorbibnamehash}{e595e6c81c73b9771b90bacd001b467c}
+      \strng{authornamehash}{e595e6c81c73b9771b90bacd001b467c}
+      \strng{authorfullhash}{e595e6c81c73b9771b90bacd001b467c}
+      \field{sortinit}{Ш}
+      \field{sortinithash}{d189e61cca702995d3d6a5e65d6273a8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Млекопитающие Казахстана}
+      \field{title}{{Род Слепушонки – Ellobius Fischer, 1814}}
+      \field{year}{1978}
+      \field{pages}{188\bibrangedash 207}
+      \range{pages}{20}
       \keyw{bibliofull}
     \endentry
   \enddatalist
