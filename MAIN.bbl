@@ -7347,6 +7347,52 @@
       \endverb
       \keyw{bibliofull}
     \endentry
+    \entry{Yang2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4d0bece89adf0d22a7586a8927bc4a66}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ziheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5645ae252263a070818e54fc1f241c23}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Rasmus},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f43d0c342fc1651550a95af7648d9edc}
+      \strng{fullhash}{f43d0c342fc1651550a95af7648d9edc}
+      \strng{bibnamehash}{f43d0c342fc1651550a95af7648d9edc}
+      \strng{authorbibnamehash}{f43d0c342fc1651550a95af7648d9edc}
+      \strng{authornamehash}{f43d0c342fc1651550a95af7648d9edc}
+      \strng{authorfullhash}{f43d0c342fc1651550a95af7648d9edc}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Biology and Evolution}
+      \field{month}{6}
+      \field{title}{{Codon-Substitution Models for Detecting Molecular Adaptation at Individual Sites Along Specific Lineages}}
+      \field{year}{2002}
+      \field{number}{6}
+      \range{number}{1}
+      \field{pages}{908\bibrangedash 917}
+      \range{pages}{10}
+      \field{volume}{19}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1093/oxfordjournals.molbev.a004148
+      \endverb
+      \verb{urlraw}
+      \verb http://academic.oup.com/mbe/article/19/6/908/1094851
+      \endverb
+      \verb{url}
+      \verb http://academic.oup.com/mbe/article/19/6/908/1094851
+      \endverb
+      \keyw{bibliofull}
+    \endentry
     \entry{Zhang2013b}{article}{}
       \name{author}{5}{}{%
         {{hash=112faefb37293f52cd92c3bb36fcc08b}{%
