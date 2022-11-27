@@ -19,131 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{lnyt/global//global/global}
-    \entry{Cock2009}{article}{}
-      \name{author}{11}{}{%
-        {{hash=961b84215f587c306ba5c9176491354a}{%
-           family={Cock},
-           familyi={C\bibinitperiod},
-           given={P.\bibnamedelimi J.\bibnamedelimi A.},
-           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=76a643b635700503967d3270673f3725}{%
-           family={Antao},
-           familyi={A\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=2b56f25cf534aaed6a069154f877d15b}{%
-           family={Chang},
-           familyi={C\bibinitperiod},
-           given={J.\bibnamedelimi T.},
-           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=79fce4054f00e38db1167016395aeee0}{%
-           family={Chapman},
-           familyi={C\bibinitperiod},
-           given={B.\bibnamedelimi A.},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=372a4169dadddfc13cbb217cd4988266}{%
-           family={Cox},
-           familyi={C\bibinitperiod},
-           given={C.\bibnamedelimi J.},
-           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=283890fe7a2cfb7b4f33ce7c4dd31c94}{%
-           family={Dalke},
-           familyi={D\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a97700ec514801a8ff28019dbbc5f561}{%
-           family={Friedberg},
-           familyi={F\bibinitperiod},
-           given={I.},
-           giveni={I\bibinitperiod}}}%
-        {{hash=507011cb085de1c9dece64a1b0639d17}{%
-           family={Hamelryck},
-           familyi={H\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=f0c582515d03436b2730da6243c7601c}{%
-           family={Kauff},
-           familyi={K\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=91523821ca3393e5c453165c08c2a550}{%
-           family={Wilczynski},
-           familyi={W\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod}}}%
-        {{hash=12f2aad47db9b563f9f5ca9e3220e04b}{%
-           family={Hoon},
-           familyi={H\bibinitperiod},
-           given={M.\bibnamedelimi J.\bibnamedelimi L.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod},
-           prefix={de},
-           prefixi={d\bibinitperiod}}}%
-      }
-      \strng{namehash}{6d52ce6f535d89052fd164feb8a8c680}
-      \strng{fullhash}{3699ff44caf9c526aa644e70ada987de}
-      \strng{bibnamehash}{6d52ce6f535d89052fd164feb8a8c680}
-      \strng{authorbibnamehash}{6d52ce6f535d89052fd164feb8a8c680}
-      \strng{authornamehash}{6d52ce6f535d89052fd164feb8a8c680}
-      \strng{authorfullhash}{3699ff44caf9c526aa644e70ada987de}
-      \field{sortinit}{e}
-      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Bioinformatics}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{title}{{Biopython: freely available Python tools for computational molecular biology and bioinformatics}}
-      \field{year}{2009}
-      \field{number}{11}
-      \range{number}{1}
-      \field{pages}{1422\bibrangedash 1423}
-      \range{pages}{2}
-      \field{volume}{25}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1093/bioinformatics/btp163
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btp163
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btp163
-      \endverb
-      \keyw{bibliofull}
-    \endentry
-    \entry{Nevo1990}{article}{}
-      \name{author}{2}{}{%
-        {{hash=83259039d83b1d9bbb7631997af74e78}{%
-           family={Nevo},
-           familyi={N\bibinitperiod},
-           given={E},
-           giveni={E\bibinitperiod}}}%
-        {{hash=519deed89000cea1a21acc3effabe9c6}{%
-           family={Reig},
-           familyi={R\bibinitperiod},
-           given={O},
-           giveni={O\bibinitperiod}}}%
-      }
-      \strng{namehash}{00b7ff12273a96d0487acb0162896844}
-      \strng{fullhash}{00b7ff12273a96d0487acb0162896844}
-      \strng{bibnamehash}{00b7ff12273a96d0487acb0162896844}
-      \strng{authorbibnamehash}{00b7ff12273a96d0487acb0162896844}
-      \strng{authornamehash}{00b7ff12273a96d0487acb0162896844}
-      \strng{authorfullhash}{00b7ff12273a96d0487acb0162896844}
-      \field{sortinit}{e}
-      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{proceedings of the fifth International Theriological Congress held in Rome, Italy,}
-      \field{langid}{english}
-      \field{title}{{Evolution of subterranean mammals at the organismal and molecular levels}}
-      \field{year}{1990}
-      \keyw{bibliofull}
-    \endentry
     \entry{Abramson2009}{article}{}
       \name{author}{4}{}{%
         {{hash=31fa0368c526c7941d610e3a793520d8}{%
@@ -174,13 +49,14 @@
       \strng{authornamehash}{e588b0798430dd4b6b2354bb16ae17cd}
       \strng{authorfullhash}{03ca72b345d2634de61b9d128ac658ab}
       \field{extraname}{1}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{Supraspecies relationships in the subfamily Arvicolinae (Rodentia, Cricetidae): An unexpected result of nuclear gene analysis}}
       \field{year}{2009}
@@ -239,13 +115,14 @@
       \strng{authornamehash}{0b996719f56a7f86f9049cc631a7caee}
       \strng{authorfullhash}{e7463f85e2ac3624404acd7df2cfd469}
       \field{extraname}{2}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLoS ONE}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{A mitochondrial genome phylogeny of voles and lemmings (Rodentia: Arvicolinae): Evolutionary and taxonomic implications}}
       \field{year}{2021}
@@ -280,13 +157,14 @@
       \strng{authorbibnamehash}{728a7ecb696742dfd72f17661fd5c4d8}
       \strng{authornamehash}{728a7ecb696742dfd72f17661fd5c4d8}
       \strng{authorfullhash}{728a7ecb696742dfd72f17661fd5c4d8}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Molecular Evolution}
+      \field{langid}{english}
       \field{title}{{Evolution of the primate cytochrome c oxidase subunit II gene}}
       \field{year}{1994}
       \field{number}{3}
@@ -317,13 +195,14 @@
       \strng{authorbibnamehash}{9f3ec40a735320e1ae37d4a6f167be4f}
       \strng{authornamehash}{9f3ec40a735320e1ae37d4a6f167be4f}
       \strng{authorfullhash}{9f3ec40a735320e1ae37d4a6f167be4f}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The American Naturalist}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{Belowground Herbivory: The Adaptive Geometry of Geomyid Burrows}}
       \field{year}{1982}
@@ -358,13 +237,14 @@
       \strng{authorbibnamehash}{b010aed039be0b5101629e34730d82a9}
       \strng{authornamehash}{b010aed039be0b5101629e34730d82a9}
       \strng{authorfullhash}{b010aed039be0b5101629e34730d82a9}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available online at: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/}
+      \field{langid}{english}
       \field{title}{{FastQC: A Quality Control Tool for High Throughput Sequence Data [Online].}}
       \field{year}{2010}
       \keyw{bibliofull}
@@ -393,13 +273,14 @@
       \strng{authorbibnamehash}{2d0648096aafecd8a2829cf897a29dc3}
       \strng{authornamehash}{362333da3601be5eff5479e5a952c427}
       \strng{authorfullhash}{2d0648096aafecd8a2829cf897a29dc3}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Molecular Evolution}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{Accelerated Evolution of Cytochrome b in Simian Primates: Adaptive Evolution in Concert with Other Mitochondrial Proteins?}}
       \field{year}{1998}
@@ -439,13 +320,14 @@
       \strng{authorbibnamehash}{3ea2296983762344291f8d6acbc75d73}
       \strng{authornamehash}{3ea2296983762344291f8d6acbc75d73}
       \strng{authorfullhash}{3ea2296983762344291f8d6acbc75d73}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{2}
       \field{title}{{Investigating Protein-Coding Sequence Evolution with Probabilistic Codon Substitution Models}}
       \field{year}{2009}
@@ -495,13 +377,14 @@
       \strng{authorbibnamehash}{a74509f6f0912a35ed45952d4b60babe}
       \strng{authornamehash}{f34967f6586b5def7e606d0255adf815}
       \strng{authorfullhash}{a74509f6f0912a35ed45952d4b60babe}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comptes Rendus Biologies}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{Studying sources of incongruence in arthropod molecular phylogenies: Sea spiders (Pycnogonida) as a case study}}
       \field{year}{2010}
@@ -541,13 +424,14 @@
       \strng{authorbibnamehash}{41b64da560fdc49d0504b0d04ee35db2}
       \strng{authornamehash}{41b64da560fdc49d0504b0d04ee35db2}
       \strng{authorfullhash}{41b64da560fdc49d0504b0d04ee35db2}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{Nerve Endings in the Mole's Snout}}
       \field{year}{1961}
@@ -605,12 +489,13 @@
       \strng{authorbibnamehash}{736580a0c191319277d876eabefe749d}
       \strng{authornamehash}{3a5d424eebba48a9a22bca4c8c55314b}
       \strng{authorfullhash}{736580a0c191319277d876eabefe749d}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{Mammals of Europe, North Africa and the Middle East}}
       \field{year}{2018}
       \keyw{bibliofull}
@@ -649,13 +534,14 @@
       \strng{authorbibnamehash}{1e5e1c9ce7fd502e582720e941500f0c}
       \strng{authornamehash}{0ba869416be7e673f02d56d305aeeba7}
       \strng{authorfullhash}{1e5e1c9ce7fd502e582720e941500f0c}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{FEBS Letters}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Adaptive hypoxic tolerance in the subterranean mole rat Spalax ehrenbergi : the role of vascular endothelial growth factor}}
       \field{year}{1999}
@@ -690,13 +576,14 @@
       \strng{authorbibnamehash}{49b16e56c321c9394b5a72137dd5ff25}
       \strng{authornamehash}{49b16e56c321c9394b5a72137dd5ff25}
       \strng{authorfullhash}{49b16e56c321c9394b5a72137dd5ff25}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Molecular Evolution}
+      \field{langid}{english}
       \field{month}{7}
       \field{title}{{Comparative Genomics of Mitochondrial DNA in Members of the Drosophila melanogaster Subgroup}}
       \field{year}{2000}
@@ -736,13 +623,14 @@
       \strng{authorbibnamehash}{26716526ba8ffcb792c1f1a580f1a0e7}
       \strng{authornamehash}{26716526ba8ffcb792c1f1a580f1a0e7}
       \strng{authorfullhash}{26716526ba8ffcb792c1f1a580f1a0e7}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Ecology}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{The incomplete natural history of mitochondria}}
       \field{year}{2004}
@@ -855,13 +743,14 @@
       \strng{authorbibnamehash}{1b538e70dadaa28620e442d83bde2ac4}
       \strng{authornamehash}{1b538e70dadaa28620e442d83bde2ac4}
       \strng{authorfullhash}{5362d2d440bb77e18cc47ee78170cbf4}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Computational Biology}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing}}
       \field{year}{2012}
@@ -916,13 +805,14 @@
       \strng{authorbibnamehash}{eeceae739fd702ae1dcf7958d1477d0b}
       \strng{authornamehash}{0185e53cd3d751a9553741f3e7b0fea2}
       \strng{authorfullhash}{eeceae739fd702ae1dcf7958d1477d0b}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Russian Journal of Genetics}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{Genetic diversity of Chionomys genus (Mammalia, Arvicolinae) and comparative phylogeography of snow voles}}
       \field{year}{2013}
@@ -973,13 +863,14 @@
       \strng{authorbibnamehash}{e66c75ee6d9562e6c97747fab5ba98fd}
       \strng{authornamehash}{e13bbcf4df629abb341714fb1a5b16ee}
       \strng{authorfullhash}{e66c75ee6d9562e6c97747fab5ba98fd}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Subterranean Rodents}
+      \field{langid}{english}
       \field{title}{{Subterranean Rodents: News from Underground}}
       \field{year}{2007}
       \field{pages}{3\bibrangedash 9}
@@ -1049,13 +940,14 @@
       \strng{authorbibnamehash}{0fa3c69c5cc0bd03e7cf16cf1b7b3242}
       \strng{authornamehash}{06c0b7b33756b9b47f9ed594ffe83e68}
       \strng{authorfullhash}{0fa3c69c5cc0bd03e7cf16cf1b7b3242}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Phylogenetics and Evolution}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{MITOS: Improved de novo metazoan mitochondrial genome annotation}}
       \field{year}{2013}
@@ -1090,13 +982,14 @@
       \strng{authorbibnamehash}{caf05f0a7bd1adafa59e9a7384ec0a18}
       \strng{authornamehash}{caf05f0a7bd1adafa59e9a7384ec0a18}
       \strng{authorfullhash}{caf05f0a7bd1adafa59e9a7384ec0a18}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Genetics}
+      \field{langid}{english}
       \field{month}{7}
       \field{title}{{Natural selection and the evolution of mtDNA-encoded peptides: evidence for intergenomic co-adaptation}}
       \field{year}{2001}
@@ -1154,13 +1047,14 @@
       \strng{authorbibnamehash}{26a1ff1925a32df9f5c349e12b012cf5}
       \strng{authornamehash}{dbb7d72b56078ce13aca786cb6b614b7}
       \strng{authorfullhash}{26a1ff1925a32df9f5c349e12b012cf5}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PROTEOMICS}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Prediction of post-translational glycosylation and phosphorylation of proteins from the amino acid sequence}}
       \field{year}{2004}
@@ -1205,13 +1099,14 @@
       \strng{authorbibnamehash}{7af54cf19aa447bf5916de87adbe9cef}
       \strng{authornamehash}{8bb624c23679eb260ecb84c9e80efad9}
       \strng{authorfullhash}{7af54cf19aa447bf5916de87adbe9cef}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bioinformatics}
+      \field{langid}{english}
       \field{month}{8}
       \field{title}{{Trimmomatic: a flexible trimmer for Illumina sequence data}}
       \field{year}{2014}
@@ -1266,13 +1161,14 @@
       \strng{authorbibnamehash}{6f6fdfa33269a284dddbd0f16993750f}
       \strng{authornamehash}{89e5f07713e88c833efd0972c6bb0148}
       \strng{authorfullhash}{6f6fdfa33269a284dddbd0f16993750f}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC Ecology and Evolution}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Searching for signatures of positive selection in cytochrome b gene associated with subterranean lifestyle in fast-evolving arvicolines (Arvicolinae, Cricetidae, Rodentia)}}
       \field{year}{2021}
@@ -1317,13 +1213,14 @@
       \strng{authorbibnamehash}{5cb1d1b7fa18c5e7fde82056889eb519}
       \strng{authornamehash}{c776eec29288fd70f30e10bdb5adf2eb}
       \strng{authorfullhash}{5cb1d1b7fa18c5e7fde82056889eb519}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Mastozoología Neotropical}
+      \field{langid}{english}
       \field{title}{{Eye Reduction in Subterranean Mammals and Eye Protective Behavior in Ctenomys}}
       \field{year}{2002}
       \field{number}{2}
@@ -1361,13 +1258,14 @@
       \strng{authorbibnamehash}{7aae84766d960f545ea24cb810447c5e}
       \strng{authornamehash}{0bded807075757755f8f3138264d6d17}
       \strng{authorfullhash}{7aae84766d960f545ea24cb810447c5e}
-      \field{sortinit}{B}
-      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Methods}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{Fast and sensitive protein alignment using DIAMOND}}
       \field{year}{2015}
@@ -1465,13 +1363,14 @@
       \strng{authorbibnamehash}{7fef846458cd2a47d19be44552e53d0b}
       \strng{authornamehash}{7fef846458cd2a47d19be44552e53d0b}
       \strng{authorfullhash}{c0cfaf9518d8554aa260a0b78863aa19}
-      \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Scientific Reports}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Adaptive Transcriptome Profiling of Subterranean Zokor, Myospalax baileyi, to High- Altitude Stresses in Tibet}}
       \field{year}{2018}
@@ -1519,13 +1418,14 @@
       \strng{authorbibnamehash}{f665cb9c6a1efe1b7ac8ee88e9db0d80}
       \strng{authornamehash}{cc6c2cb629209e6255b94ab9b40c6907}
       \strng{authorfullhash}{f665cb9c6a1efe1b7ac8ee88e9db0d80}
-      \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zoological Science}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{Reproductive Strategies and Life-history Traits of the Savi's Pine Vole, Microtus savii}}
       \field{year}{2000}
@@ -1560,13 +1460,14 @@
       \strng{authorbibnamehash}{1a778e7e170edeb7fa7729bc8806cee3}
       \strng{authornamehash}{1a778e7e170edeb7fa7729bc8806cee3}
       \strng{authorfullhash}{1a778e7e170edeb7fa7729bc8806cee3}
-      \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{Selection of Conserved Blocks from Multiple Alignments for Their Use in Phylogenetic Analysis}}
       \field{year}{2000}
@@ -1584,6 +1485,100 @@
       \endverb
       \verb{url}
       \verb http://academic.oup.com/mbe/article/17/4/540/1127654
+      \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Cock2009}{article}{}
+      \name{author}{11}{}{%
+        {{hash=961b84215f587c306ba5c9176491354a}{%
+           family={Cock},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi J.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=76a643b635700503967d3270673f3725}{%
+           family={Antao},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2b56f25cf534aaed6a069154f877d15b}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=79fce4054f00e38db1167016395aeee0}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={B.\bibnamedelimi A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=372a4169dadddfc13cbb217cd4988266}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=283890fe7a2cfb7b4f33ce7c4dd31c94}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a97700ec514801a8ff28019dbbc5f561}{%
+           family={Friedberg},
+           familyi={F\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=507011cb085de1c9dece64a1b0639d17}{%
+           family={Hamelryck},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f0c582515d03436b2730da6243c7601c}{%
+           family={Kauff},
+           familyi={K\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=91523821ca3393e5c453165c08c2a550}{%
+           family={Wilczynski},
+           familyi={W\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=12f2aad47db9b563f9f5ca9e3220e04b}{%
+           family={Hoon},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi J.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d52ce6f535d89052fd164feb8a8c680}
+      \strng{fullhash}{3699ff44caf9c526aa644e70ada987de}
+      \strng{bibnamehash}{6d52ce6f535d89052fd164feb8a8c680}
+      \strng{authorbibnamehash}{6d52ce6f535d89052fd164feb8a8c680}
+      \strng{authornamehash}{6d52ce6f535d89052fd164feb8a8c680}
+      \strng{authorfullhash}{3699ff44caf9c526aa644e70ada987de}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{{Biopython: freely available Python tools for computational molecular biology and bioinformatics}}
+      \field{year}{2009}
+      \field{number}{11}
+      \range{number}{1}
+      \field{pages}{1422\bibrangedash 1423}
+      \range{pages}{2}
+      \field{volume}{25}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btp163
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btp163
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btp163
       \endverb
       \keyw{bibliofull}
     \endentry
@@ -1611,13 +1606,14 @@
       \strng{authorbibnamehash}{4f9b2fa59c0096adfd405900bc9b3528}
       \strng{authornamehash}{db04af9ab888a289be7e119a050b1a16}
       \strng{authorfullhash}{4f9b2fa59c0096adfd405900bc9b3528}
-      \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{Ocular regression conceals adaptive progression of the visual system in a blind subterranean mammal}}
       \field{year}{1993}
@@ -1692,13 +1688,14 @@
       \strng{authorbibnamehash}{070d5022d0fade9c602c9ea62c215f4e}
       \strng{authornamehash}{3bf14441f47c9a0cdbae5414021cfe3e}
       \strng{authorfullhash}{070d5022d0fade9c602c9ea62c215f4e}
-      \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bioorganic \& Medicinal Chemistry}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{The role of molecular modeling in the design of analogues of the fungicidal natural products crocacins A and D}}
       \field{year}{2008}
@@ -1748,13 +1745,14 @@
       \strng{authorbibnamehash}{a38332c0c89229b4ef5b28e7a296a945}
       \strng{authornamehash}{0c85a758356ce07ceed55cf30fb4b792}
       \strng{authorfullhash}{a38332c0c89229b4ef5b28e7a296a945}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Open Evolution Journal}
+      \field{langid}{english}
       \field{title}{{Genes and Ecology: Accelerated Rates of Replacement Substitutions in the Cytochrome b Gene of Subterranean Rodents}}
       \field{year}{2009}
       \field{number}{3}
@@ -1783,13 +1781,14 @@
       \strng{authorbibnamehash}{55d228db0f90b5777518cfccb6b0e9ec}
       \strng{authornamehash}{55d228db0f90b5777518cfccb6b0e9ec}
       \strng{authorfullhash}{55d228db0f90b5777518cfccb6b0e9ec}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genome Research}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Mauve: Multiple Alignment of Conserved Genomic Sequence With Rearrangements}}
       \field{year}{2004}
@@ -1849,13 +1848,14 @@
       \strng{editorbibnamehash}{f9f0d82473b3df946abce76695be0ba7}
       \strng{editornamehash}{f9f0d82473b3df946abce76695be0ba7}
       \strng{editorfullhash}{f9f0d82473b3df946abce76695be0ba7}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{Limited Evidence for Parallel Molecular Adaptations Associated with the Subterranean Niche in Mammals: A Comparative Study of Three Superorders}}
       \field{year}{2018}
@@ -1900,13 +1900,14 @@
       \strng{authorbibnamehash}{62d1bb49bf2841848256a954ad57362a}
       \strng{authornamehash}{8a350546bd437c74b2d35b71b2cf3e6b}
       \strng{authorfullhash}{62d1bb49bf2841848256a954ad57362a}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Briefings in Bioinformatics}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{Models of coding sequence evolution}}
       \field{year}{2008}
@@ -1956,13 +1957,14 @@
       \strng{authorbibnamehash}{faaada2a5287d16b061684faa45000a6}
       \strng{authornamehash}{38da5b5d6a2914d878214693409ead32}
       \strng{authorfullhash}{faaada2a5287d16b061684faa45000a6}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Bioenergetics and Biomembranes}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Rapid evolution of cytochrome c oxidase subunit II in camelids (Tylopoda, Camelidae)}}
       \field{year}{2006}
@@ -2025,13 +2027,14 @@
       \strng{authorbibnamehash}{8688326e5f9f77a56b4aff0e8fa6967d}
       \strng{authornamehash}{1f3715347e31cb975b67bd7d768837a0}
       \strng{authorfullhash}{8688326e5f9f77a56b4aff0e8fa6967d}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Biological Chemistry}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{Exposure of Yeast Cells to Anoxia Induces Transient Oxidative Stress}}
       \field{year}{2002}
@@ -2121,13 +2124,14 @@
       \strng{authorbibnamehash}{32eda55e06dcb4d0484ad9c41dbe4e1a}
       \strng{authornamehash}{32eda55e06dcb4d0484ad9c41dbe4e1a}
       \strng{authorfullhash}{62de21097aa21b54d222dcffcc7dd3d0}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Zoology}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Transcriptome analysis of the response provided by Lasiopodomys mandarinus to severe hypoxia includes enhancing DNA repair and damage prevention}}
       \field{year}{2020}
@@ -2162,13 +2166,14 @@
       \strng{authorbibnamehash}{d7d087e4e635ddcf99d5a77a12acdf92}
       \strng{authornamehash}{d7d087e4e635ddcf99d5a77a12acdf92}
       \strng{authorfullhash}{d7d087e4e635ddcf99d5a77a12acdf92}
-      \field{sortinit}{F}
-      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PhD thesis}
+      \field{langid}{english}
       \field{title}{{Convergent and divergent adaptations of subterranean rodents}}
       \field{year}{2015}
       \verb{file}
@@ -2205,13 +2210,14 @@
       \strng{authorbibnamehash}{0122fd4cee02de916013ad81b7bc2f18}
       \strng{authornamehash}{cb833b90d403089f7273e951417fe6f2}
       \strng{authorfullhash}{0122fd4cee02de916013ad81b7bc2f18}
-      \field{sortinit}{F}
-      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Palaeontologia Electronica}
+      \field{langid}{english}
       \field{title}{{Microtoid cricetids and the Early history of arvicolids (Mammalia, Rodentia)}}
       \field{year}{2011}
       \field{number}{3}
@@ -2223,6 +2229,56 @@
       \verb{file}
       \verb :C\:/Users/institute/Desktop/BIOINF Оля/SCIENCE/ВКР/6_fejfar.pdf:pdf
       \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Gambaryan1957}{article}{}
+      \name{author}{5}{}{%
+        {{hash=31170500729e5d41d4e3c62a00faefbe}{%
+           family={Gambaryan},
+           familyi={G\bibinitperiod},
+           given={P.P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af501f76eeba702172ab81e4750a4ef4}{%
+           family={Karapetyan},
+           familyi={K\bibinitperiod},
+           given={V.S.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e02f0419d79dbf30cd46127b8cb388c0}{%
+           family={Ayrumyan},
+           familyi={A\bibinitperiod},
+           given={K.A.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2c2a8ed8dfa2905e9d5d967da1a4f338}{%
+           family={Kazaryan},
+           familyi={K\bibinitperiod},
+           given={K.G.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c0f200e19150de740bd0911d430dfe90}{%
+           family={Mezhlumyan},
+           familyi={M\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{184d596dc22d371bfc97cde8f7db093c}
+      \strng{fullhash}{1db48f1413c5cc3597520ff23681ae10}
+      \strng{bibnamehash}{1db48f1413c5cc3597520ff23681ae10}
+      \strng{authorbibnamehash}{1db48f1413c5cc3597520ff23681ae10}
+      \strng{authornamehash}{184d596dc22d371bfc97cde8f7db093c}
+      \strng{authorfullhash}{1db48f1413c5cc3597520ff23681ae10}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials on the study of the fauna of the Armenian SSR (Zoologicheskii Sbornik, 10)}
+      \field{langid}{english}
+      \field{title}{{To the Ecology of the Long-Clawed Mole Vole Prometheomys Schaposchnikovi Sat.}}
+      \field{year}{1957}
+      \field{number}{5\bibrangedash 16}
+      \range{number}{12}
+      \field{volume}{3}
+      \range{volume}{1}
       \keyw{bibliofull}
     \endentry
     \entry{Gao2003}{article}{}
@@ -2269,13 +2325,14 @@
       \strng{authorbibnamehash}{55bd1091904ba9cc26ac40a1037a92b4}
       \strng{authornamehash}{ef9ceb1ea7cc1f82040d903da19e5821}
       \strng{authorfullhash}{55bd1091904ba9cc26ac40a1037a92b4}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Biochemistry}
+      \field{langid}{english}
       \field{month}{8}
       \field{title}{{Structural Basis for the Quinone Reduction in the bc 1 Complex: A Comparative Analysis of Crystal Structures of Mitochondrial Cytochrome bc 1 with Bound Substrate and Inhibitors at the Q i Site }}
       \field{year}{2003}
@@ -2315,13 +2372,14 @@
       \strng{authorbibnamehash}{43d8589b29d0c6f0d9daffc5ec622207}
       \strng{authornamehash}{43d8589b29d0c6f0d9daffc5ec622207}
       \strng{authorfullhash}{43d8589b29d0c6f0d9daffc5ec622207}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{A codon-based model of nucleotide substitution for protein-coding DNA sequences.}}
       \field{year}{1994}
@@ -2364,13 +2422,14 @@
       \strng{authorbibnamehash}{7fa15ecb42175b09e10ec03b1fe87b5b}
       \strng{authornamehash}{d6d8af02923e4782dcfb4a4ed93f4d2b}
       \strng{authorfullhash}{7fa15ecb42175b09e10ec03b1fe87b5b}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Asian Earth Sciences}
+      \field{langid}{english}
       \field{month}{8}
       \field{title}{{The Cricetidae (Rodentia, Mammalia) from the Ulantatal area (Inner Mongolia, China): New data concerning the evolution of Asian cricetids during the Oligocene}}
       \field{year}{2012}
@@ -2408,13 +2467,14 @@
       \strng{authorbibnamehash}{3040255a62a5d45938acc143715aa158}
       \strng{authornamehash}{3040255a62a5d45938acc143715aa158}
       \strng{authorfullhash}{3040255a62a5d45938acc143715aa158}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Theriologica}
+      \field{langid}{english}
       \field{title}{{Metabolic rate of the lesser mole rat}}
       \field{year}{1969}
       \keyw{bibliofull}
@@ -2535,13 +2595,14 @@
       \strng{authorbibnamehash}{220a2485ff73d29b0006dfae480f8e4d}
       \strng{authornamehash}{220a2485ff73d29b0006dfae480f8e4d}
       \strng{authorfullhash}{48cbb0da5ab28dc61f021c0cd850bdb2}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Biotechnology}
+      \field{langid}{english}
       \field{month}{7}
       \field{title}{{Full-length transcriptome assembly from RNA-Seq data without a reference genome}}
       \field{year}{2011}
@@ -2596,13 +2657,14 @@
       \strng{editorbibnamehash}{05fad681b86e7b9add72ef6b6e556225}
       \strng{editornamehash}{05fad681b86e7b9add72ef6b6e556225}
       \strng{editorfullhash}{05fad681b86e7b9add72ef6b6e556225}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Systematic Biology}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{Evidence for Multiple Reversals of Asymmetric Mutational Constraints during the Evolution of the Mitochondrial Genome of Metazoa, and Consequences for Phylogenetic Inferences}}
       \field{year}{2005}
@@ -2652,13 +2714,14 @@
       \strng{authorbibnamehash}{e6a8cdca464dba3cfea2808bcbb059f3}
       \strng{authornamehash}{f75cf0f472550c8963bdf0987f83f939}
       \strng{authorfullhash}{e6a8cdca464dba3cfea2808bcbb059f3}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Behavioral Ecology and Sociobiology}
+      \field{langid}{english}
       \field{month}{7}
       \field{title}{{Vibrational communication in subterranean mole rats (Spalax ehrenbergi)}}
       \field{year}{1987}
@@ -2699,12 +2762,13 @@
       \strng{authorbibnamehash}{d0a93b8071fb7bdfc658325ebb681b30}
       \strng{authornamehash}{d0a93b8071fb7bdfc658325ebb681b30}
       \strng{authorfullhash}{d0a93b8071fb7bdfc658325ebb681b30}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{Digging in quadrupeds.}}
       \field{year}{1985}
       \keyw{bibliofull}
@@ -2753,13 +2817,14 @@
       \strng{authorbibnamehash}{9211a90b122e6d7a93e9073c499b1324}
       \strng{authornamehash}{8a98dc22d9baaf30b3de2f0c1f146d70}
       \strng{authorfullhash}{9211a90b122e6d7a93e9073c499b1324}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Pakistan Journal of Zoology}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{Investigation on Oxygen and Carbon Dioxide Fluctuations in Lasiopodomys mandarinus Burrows}}
       \field{year}{2019}
@@ -2792,13 +2857,14 @@
       \strng{authorbibnamehash}{b0e0ff65787f623bfb5e6d1ac4a00d5f}
       \strng{authornamehash}{b0e0ff65787f623bfb5e6d1ac4a00d5f}
       \strng{authorfullhash}{b0e0ff65787f623bfb5e6d1ac4a00d5f}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Ecology Resources}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{Sequencing breakthroughs for genomic ecology and evolutionary biology}}
       \field{year}{2008}
@@ -2843,13 +2909,14 @@
       \strng{authorbibnamehash}{e259f90be8a2216a612f4174c79376cc}
       \strng{authornamehash}{43e551246652275d692bf5fd55fb2432}
       \strng{authorfullhash}{e259f90be8a2216a612f4174c79376cc}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{ETE 3: Reconstruction, Analysis, and Visualization of Phylogenomic Data}}
       \field{year}{2016}
@@ -2904,13 +2971,14 @@
       \strng{authorbibnamehash}{d51ff5ef5f4ebf2e57d1e6b950ce5265}
       \strng{authornamehash}{21ff8c913006e000d9db078734e3eefb}
       \strng{authorfullhash}{d51ff5ef5f4ebf2e57d1e6b950ce5265}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Structure}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Structure at 2.3 {Å} resolution of the cytochrome bc1 complex from the yeast Saccharomyces cerevisiae co-crystallized with an antibody Fv fragment}}
       \field{year}{2000}
@@ -2950,13 +3018,14 @@
       \strng{authorbibnamehash}{ca4e25a7b46f02dbe4b69b5b7991914d}
       \strng{authornamehash}{ca4e25a7b46f02dbe4b69b5b7991914d}
       \strng{authorfullhash}{ca4e25a7b46f02dbe4b69b5b7991914d}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Competition between mitochondrial haplotypes in distinct nuclear genetic environments: Drosophila pseudoobscura vs. D. persimilis.}}
       \field{year}{1995}
@@ -3013,13 +3082,14 @@
       \strng{authorbibnamehash}{93e2a6faeb091c7c2b7305a624309b5f}
       \strng{authornamehash}{13f91dbeb53b0a24847ea8c797bef18f}
       \strng{authorfullhash}{93e2a6faeb091c7c2b7305a624309b5f}
-      \field{sortinit}{J}
-      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Botany}
+      \field{langid}{english}
       \field{title}{{Nucleic acid damage and DNA repair are affected by freezing stress in annual wheat ( Triticum aestivum ) and by plant age and freezing in its perennial relative ( Thinopyrum intermedium )}}
       \field{year}{2020}
       \field{number}{12}
@@ -3055,13 +3125,14 @@
       \strng{authorbibnamehash}{696e6c254cb3eb6852e95390b9b96ca5}
       \strng{authornamehash}{696e6c254cb3eb6852e95390b9b96ca5}
       \strng{authorfullhash}{696e6c254cb3eb6852e95390b9b96ca5}
-      \field{sortinit}{J}
-      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{Mitochondrial Genotype Affects Fitness in Drosophila simulans}}
       \field{year}{2003}
@@ -3093,13 +3164,14 @@
       \strng{authorbibnamehash}{547beb1e7510698696fd2a08bc50540f}
       \strng{authornamehash}{547beb1e7510698696fd2a08bc50540f}
       \strng{authorfullhash}{547beb1e7510698696fd2a08bc50540f}
-      \field{sortinit}{J}
-      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Theriologica}
+      \field{langid}{english}
       \field{title}{{Reproduction in a Laboratory Colony of the Female Pine Voles, Pitymys Subterraneus.}}
       \field{year}{1983}
       \field{pages}{197\bibrangedash 207}
@@ -3132,13 +3204,14 @@
       \strng{authorbibnamehash}{f78107bb4e2138be3a73e764587e9bc8}
       \strng{authornamehash}{68fe6e890d4199233aeae7d7094f2787}
       \strng{authorfullhash}{f78107bb4e2138be3a73e764587e9bc8}
-      \field{sortinit}{J}
-      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC Evolutionary Biology}
+      \field{langid}{english}
       \field{title}{{TREEFINDER: A powerful graphical analysis environment for molecular phylogenetics}}
       \field{year}{2004}
       \field{pages}{1\bibrangedash 9}
@@ -3155,15 +3228,15 @@
     \endentry
     \entry{Jonsson2013}{article}{}
       \name{author}{5}{}{%
-        {{hash=75741fff19deb94f6362a5a5efd14007}{%
-           family={Jónsson},
+        {{hash=3ce794df12781d9f8ac95e9b5e0cc476}{%
+           family={Jonsson},
            familyi={J\bibinitperiod},
-           given={Hákon},
+           given={Hakon},
            giveni={H\bibinitperiod}}}%
-        {{hash=d230f3ea37805f7170eaf0b7e6c7eae6}{%
+        {{hash=e36a8afa4ea14e506085636f18639959}{%
            family={Ginolhac},
            familyi={G\bibinitperiod},
-           given={Aurélien},
+           given={Aurelien},
            giveni={A\bibinitperiod}}}%
         {{hash=ed2a561602b13459413b4e96963a86b4}{%
            family={Schubert},
@@ -3181,19 +3254,20 @@
            given={Ludovic},
            giveni={L\bibinitperiod}}}%
       }
-      \strng{namehash}{2ea82088033b288ed11fd13c7f7ed885}
-      \strng{fullhash}{a9f34f735485421e589c4325cc9779bd}
-      \strng{bibnamehash}{a9f34f735485421e589c4325cc9779bd}
-      \strng{authorbibnamehash}{a9f34f735485421e589c4325cc9779bd}
-      \strng{authornamehash}{2ea82088033b288ed11fd13c7f7ed885}
-      \strng{authorfullhash}{a9f34f735485421e589c4325cc9779bd}
-      \field{sortinit}{J}
-      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \strng{namehash}{8ab666aeb413ea694c1a0dd228e83203}
+      \strng{fullhash}{8f2664f614a58dd78428f1e03cbed400}
+      \strng{bibnamehash}{8f2664f614a58dd78428f1e03cbed400}
+      \strng{authorbibnamehash}{8f2664f614a58dd78428f1e03cbed400}
+      \strng{authornamehash}{8ab666aeb413ea694c1a0dd228e83203}
+      \strng{authorfullhash}{8f2664f614a58dd78428f1e03cbed400}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bioinformatics}
+      \field{langid}{english}
       \field{month}{7}
       \field{title}{{mapDamage2.0: fast approximate Bayesian estimates of ancient DNA damage parameters}}
       \field{year}{2013}
@@ -3233,12 +3307,13 @@
       \strng{authorbibnamehash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
       \strng{authornamehash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
       \strng{authorfullhash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
-      \field{sortinit}{K}
-      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{MAFFT: Iterative Refinement and Additional Methods}}
       \field{year}{2014}
       \field{pages}{131\bibrangedash 146}
@@ -3273,13 +3348,14 @@
       \strng{authorbibnamehash}{bb77b381d12a00ec2202c8ddc7b621bb}
       \strng{authornamehash}{bb77b381d12a00ec2202c8ddc7b621bb}
       \strng{authorfullhash}{bb77b381d12a00ec2202c8ddc7b621bb}
-      \field{sortinit}{K}
-      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Conditional hitchhiking of mitochondrial DNA: frequency shifts of Drosophila melanogaster mtDNA variants depend on nuclear genetic background.}}
       \field{year}{1995}
@@ -3321,13 +3397,14 @@
       \strng{authorbibnamehash}{02525c95f9a38994b84d047463163a03}
       \strng{authornamehash}{10cb461b96e0074eda7ae6f2658b286b}
       \strng{authorfullhash}{02525c95f9a38994b84d047463163a03}
-      \field{sortinit}{K}
-      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{A subterranean mammal uses the magnetic compass for path integration}}
       \field{year}{2004}
@@ -3387,13 +3464,14 @@
       \strng{authorbibnamehash}{9bd28a9b8eaa65880418f5de2a3a66d7}
       \strng{authornamehash}{323c06f5643f4c16485e3d4b7b3abae9}
       \strng{authorfullhash}{9bd28a9b8eaa65880418f5de2a3a66d7}
-      \field{sortinit}{K}
-      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{A Random Effects Branch-Site Model for Detecting Episodic Diversifying Selection}}
       \field{year}{2011}
@@ -3436,12 +3514,13 @@
       \strng{authorbibnamehash}{b0f7a16209d568af22e43a8a4d64f662}
       \strng{authornamehash}{b0f7a16209d568af22e43a8a4d64f662}
       \strng{authorfullhash}{b0f7a16209d568af22e43a8a4d64f662}
-      \field{sortinit}{K}
-      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{Mammals of Turkey and Cyprus: Rodentia I: Sciuridae, Dipodidae, Gliridae, Arvicolinae}}
       \field{year}{2005}
       \keyw{bibliofull}
@@ -3520,12 +3599,13 @@
       \strng{authorbibnamehash}{0631f6f5230505fcf9d3ed854b1ed46d}
       \strng{authornamehash}{0631f6f5230505fcf9d3ed854b1ed46d}
       \strng{authorfullhash}{b8b54767c8397adeb0d718024748272a}
-      \field{sortinit}{K}
-      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{PYCR1 and PYCR2 Interact and Collaborate with RRM2B to Protect Cells from Overt Oxidative Stress OPEN}}
       \field{year}{2015}
       \verb{doi}
@@ -3569,13 +3649,14 @@
       \strng{authorbibnamehash}{ae93c408ee29c635987009a96b2ac272}
       \strng{authornamehash}{36cdd5983240a4145d93819a50bbb0e0}
       \strng{authorfullhash}{ae93c408ee29c635987009a96b2ac272}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{0-226-46727-9}
+      \field{langid}{english}
       \field{title}{{Life underground: The biology of subterranean rodents}}
       \field{year}{2000}
       \field{pages}{449}
@@ -3642,13 +3723,14 @@
       \strng{authornamehash}{6a975a4efd84e7873fc1f355814bae99}
       \strng{authorfullhash}{55859d21294b1aa40b0897747301f57a}
       \field{extraname}{1}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zoologica Scripta}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{Cryptic variation in mole voles Ellobius (Arvicolinae, Rodentia) of Mongolia}}
       \field{year}{2020}
@@ -3702,13 +3784,14 @@
       \strng{authornamehash}{dde270e9e0cf1d3cc4a91649a80395fb}
       \strng{authorfullhash}{2c24f23337d9053e675c1d001bcf562c}
       \field{extraname}{2}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zoologica Scripta}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Molecular phylogeny of the genus Alticola (Cricetidae, Rodentia) as inferred from the sequence of the cytochrome b gene}}
       \field{year}{2007}
@@ -3771,13 +3854,14 @@
       \strng{authorbibnamehash}{373f2a4ca3d3808173df403bdd0bad84}
       \strng{authornamehash}{8c8adf88abf4d9c26bd00bcd2b67d7cf}
       \strng{authorfullhash}{373f2a4ca3d3808173df403bdd0bad84}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMC Bioinformatics}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Proteinortho: Detection of (Co-)orthologs in large-scale analysis}}
       \field{year}{2011}
@@ -3812,13 +3896,14 @@
       \strng{authorbibnamehash}{5a67947d845953cdcb2752da2ebc95f8}
       \strng{authornamehash}{5a67947d845953cdcb2752da2ebc95f8}
       \strng{authorfullhash}{5a67947d845953cdcb2752da2ebc95f8}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Morphology}
+      \field{langid}{english}
       \field{month}{7}
       \field{title}{{The forelimb architecture of some fossorial rodents}}
       \field{year}{1963}
@@ -3853,13 +3938,14 @@
       \strng{authorbibnamehash}{b8bc60734f67adf6442292a220850574}
       \strng{authornamehash}{b8bc60734f67adf6442292a220850574}
       \strng{authorfullhash}{b8bc60734f67adf6442292a220850574}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Qinghai People's Publishing House,}
+      \field{langid}{english}
       \field{title}{{Economic Animal Fauna of Qinghai.}}
       \field{year}{1989}
       \field{pages}{681\bibrangedash 682}
@@ -3888,13 +3974,14 @@
       \strng{authorbibnamehash}{c56cd546f314cf5513e4445e919a2db9}
       \strng{authornamehash}{c56cd546f314cf5513e4445e919a2db9}
       \strng{authorfullhash}{c56cd546f314cf5513e4445e919a2db9}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Phylogenetics and Evolution}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{How do insect nuclear and mitochondrial gene substitution patterns differ? Insights from Bayesian analyses of combined datasets}}
       \field{year}{2004}
@@ -3949,13 +4036,14 @@
       \strng{authorbibnamehash}{15f327a4df188b4821f2b78b35c3ed6a}
       \strng{authornamehash}{9db8e52681f93ed92462a6e0f04f03ad}
       \strng{authorfullhash}{15f327a4df188b4821f2b78b35c3ed6a}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nucleic Acids Research}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{OPM database and PPM web server: resources for positioning of proteins in membranes}}
       \field{year}{2012}
@@ -4010,13 +4098,14 @@
       \strng{authorbibnamehash}{256cae9358f6a6a3f84f6611b2a04d5a}
       \strng{authornamehash}{2d058ad81c48b8f6f2dd43c5c99b8be0}
       \strng{authorfullhash}{256cae9358f6a6a3f84f6611b2a04d5a}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{Rates of nuclear and cytoplasmic mitochondrial DNA sequence divergence in mammals}}
       \field{year}{1997}
@@ -4086,13 +4175,14 @@
       \strng{authorbibnamehash}{356e13203fc22882f8e50ba420d2bc1f}
       \strng{authornamehash}{8c595fc154540b8976e7204579e13bc8}
       \strng{authorfullhash}{356e13203fc22882f8e50ba420d2bc1f}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Mitochondrion}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Mitochondrial genome analysis of Ochotona curzoniae and implication of cytochrome c oxidase in hypoxic adaptation}}
       \field{year}{2008}
@@ -4135,13 +4225,14 @@
       \strng{authorbibnamehash}{58c4556a0e62846d09058d9d0f21751b}
       \strng{authornamehash}{58c4556a0e62846d09058d9d0f21751b}
       \strng{authorfullhash}{58c4556a0e62846d09058d9d0f21751b}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Materials on the history of fauna and flora of Kazakhstan, Almaty}
+      \field{langid}{english}
       \field{title}{{Late Pliocene lagomorphs and rodents of Kiikbay}}
       \field{year}{1974}
       \field{pages}{39\bibrangedash 57}
@@ -4164,13 +4255,14 @@
       \strng{authorbibnamehash}{eefa469a414481d89823e48ed13e3172}
       \strng{authornamehash}{eefa469a414481d89823e48ed13e3172}
       \strng{authorfullhash}{eefa469a414481d89823e48ed13e3172}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Biology}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{What it takes to fly: the structural and functional respiratory refinements in birds and bats}}
       \field{year}{2000}
@@ -4202,14 +4294,15 @@
       \strng{authorbibnamehash}{c0dbbcd53afbb943df7d8b3d8180ac48}
       \strng{authornamehash}{c0dbbcd53afbb943df7d8b3d8180ac48}
       \strng{authorfullhash}{c0dbbcd53afbb943df7d8b3d8180ac48}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9783642253874}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Metabolic rate and directional nucleotide substitution in animal mitochondrial DNA.}}
       \field{year}{1995}
@@ -4229,30 +4322,31 @@
     \endentry
     \entry{Martinkova2012}{article}{}
       \name{author}{2}{}{%
-        {{hash=55ddc958e4db92b7f9a8168c63662e60}{%
-           family={Martínková},
+        {{hash=0712f6b0b5fd62fc7d4d198ad4a02228}{%
+           family={Martinkova},
            familyi={M\bibinitperiod},
-           given={Natália},
+           given={Natalia},
            giveni={N\bibinitperiod}}}%
-        {{hash=8d319b3ab602daadd91c243ac7cca55d}{%
+        {{hash=3eb8cfe5471eaf19b603d83aad31bd6b}{%
            family={Moravec},
            familyi={M\bibinitperiod},
-           given={Jiří},
+           given={Jiři},
            giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{feb433562304ad13630a2d76b78665b7}
-      \strng{fullhash}{feb433562304ad13630a2d76b78665b7}
-      \strng{bibnamehash}{feb433562304ad13630a2d76b78665b7}
-      \strng{authorbibnamehash}{feb433562304ad13630a2d76b78665b7}
-      \strng{authornamehash}{feb433562304ad13630a2d76b78665b7}
-      \strng{authorfullhash}{feb433562304ad13630a2d76b78665b7}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \strng{namehash}{b24e3d4d9643182579404fdb4ff7cf73}
+      \strng{fullhash}{b24e3d4d9643182579404fdb4ff7cf73}
+      \strng{bibnamehash}{b24e3d4d9643182579404fdb4ff7cf73}
+      \strng{authorbibnamehash}{b24e3d4d9643182579404fdb4ff7cf73}
+      \strng{authornamehash}{b24e3d4d9643182579404fdb4ff7cf73}
+      \strng{authorfullhash}{b24e3d4d9643182579404fdb4ff7cf73}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Folia Zoologica}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Multilocus phylogeny of arvicoline voles (Arvicolini, Rodentia) shows small tree terrace size}}
       \field{year}{2012}
@@ -4312,13 +4406,14 @@
       \strng{authorbibnamehash}{e32effa92a5bcfbb06e2724be6fc191e}
       \strng{authornamehash}{60e78b2bee14943614ab6a37aa8f2d3b}
       \strng{authorfullhash}{e32effa92a5bcfbb06e2724be6fc191e}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{Physicochemical Evolution and Molecular Adaptation of the Cetacean and Artiodactyl Cytochrome b Proteins}}
       \field{year}{2005}
@@ -4361,13 +4456,14 @@
       \strng{authorbibnamehash}{942ee82057255ceced9bdad3eb514fe4}
       \strng{authornamehash}{942ee82057255ceced9bdad3eb514fe4}
       \strng{authorfullhash}{942ee82057255ceced9bdad3eb514fe4}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Estimating the Influence of Selection on the Variable Amino Acid Sites of the Cytochrome b Protein Functional Domains}}
       \field{year}{2001}
@@ -4403,13 +4499,14 @@
       \strng{authornamehash}{df67210dbdcb99631fb9782fde8ad80b}
       \strng{authorfullhash}{df67210dbdcb99631fb9782fde8ad80b}
       \field{extraname}{1}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ecology}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{The Metabolism of Fossorial Rodents: A Study of Convergence}}
       \field{year}{1966}
@@ -4445,13 +4542,14 @@
       \strng{authornamehash}{df67210dbdcb99631fb9782fde8ad80b}
       \strng{authorfullhash}{df67210dbdcb99631fb9782fde8ad80b}
       \field{extraname}{2}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ecology}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{The Influence of Body Size on the Energetics and Distribution of Fossorial and Burrowing Mammals}}
       \field{year}{1979}
@@ -4487,13 +4585,14 @@
       \strng{authornamehash}{df67210dbdcb99631fb9782fde8ad80b}
       \strng{authorfullhash}{df67210dbdcb99631fb9782fde8ad80b}
       \field{extraname}{3}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The American Naturalist}
+      \field{langid}{english}
       \field{month}{7}
       \field{title}{{Food Habits, Energetics, and the Population Biology of Mammals}}
       \field{year}{1980}
@@ -4543,13 +4642,14 @@
       \strng{authorbibnamehash}{a61804c168e88c712c0ff87a391de051}
       \strng{authornamehash}{8f155a9cfa5063fe5d1d93843b24cb33}
       \strng{authorfullhash}{a61804c168e88c712c0ff87a391de051}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Applied and Environmental Microbiology}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Evaluation and Optimization of DNA Extraction and Purification Procedures for Soil and Sediment Samples}}
       \field{year}{1999}
@@ -4587,13 +4687,14 @@
       \strng{authorbibnamehash}{6d0d0f72d49ac67703e8e3addb504321}
       \strng{authornamehash}{6d0d0f72d49ac67703e8e3addb504321}
       \strng{authorfullhash}{6d0d0f72d49ac67703e8e3addb504321}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Amurian Zoological Journal}
+      \field{langid}{english}
       \field{title}{{Spatial Organization of Common Pine Vole (Microtus Subterraneus Selys-Longchamps, 1836) Colonies.}}
       \field{year}{2020}
       \field{pages}{460\bibrangedash 476}
@@ -4651,13 +4752,14 @@
       \strng{authorbibnamehash}{a0ab0953996f1999e6b5a5132cc179bc}
       \strng{authornamehash}{b7af2d8deacc3f7f8f101da5806ea6d1}
       \strng{authorfullhash}{a0ab0953996f1999e6b5a5132cc179bc}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genes}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{Complete Mitochondrial Genome Sequencing of a Burial from a Romano–Christian Cemetery in the Dakhleh Oasis, Egypt: Preliminary Indications}}
       \field{year}{2017}
@@ -4697,13 +4799,14 @@
       \strng{authorbibnamehash}{a8634093e17fcc26a02f57f50259ddde}
       \strng{authornamehash}{a8634093e17fcc26a02f57f50259ddde}
       \strng{authorfullhash}{a8634093e17fcc26a02f57f50259ddde}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{A likelihood approach for comparing synonymous and nonsynonymous nucleotide substitution rates, with application to the chloroplast genome.}}
       \field{year}{1994}
@@ -4722,31 +4825,35 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Musser2005}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=06b39d179f913121737794a8c30eacf3}{%
-           family={Musser},
-           familyi={M\bibinitperiod},
-           given={Guy\bibnamedelima G},
-           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+    \entry{Nevo1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=83259039d83b1d9bbb7631997af74e78}{%
+           family={Nevo},
+           familyi={N\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=519deed89000cea1a21acc3effabe9c6}{%
+           family={Reig},
+           familyi={R\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
       }
-      \strng{namehash}{06b39d179f913121737794a8c30eacf3}
-      \strng{fullhash}{06b39d179f913121737794a8c30eacf3}
-      \strng{bibnamehash}{06b39d179f913121737794a8c30eacf3}
-      \strng{authorbibnamehash}{06b39d179f913121737794a8c30eacf3}
-      \strng{authornamehash}{06b39d179f913121737794a8c30eacf3}
-      \strng{authorfullhash}{06b39d179f913121737794a8c30eacf3}
-      \field{sortinit}{M}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \strng{namehash}{00b7ff12273a96d0487acb0162896844}
+      \strng{fullhash}{00b7ff12273a96d0487acb0162896844}
+      \strng{bibnamehash}{00b7ff12273a96d0487acb0162896844}
+      \strng{authorbibnamehash}{00b7ff12273a96d0487acb0162896844}
+      \strng{authornamehash}{00b7ff12273a96d0487acb0162896844}
+      \strng{authorfullhash}{00b7ff12273a96d0487acb0162896844}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Mammal species of the world}
-      \field{title}{{Superfamily muroidea}}
-      \field{year}{2005}
-      \field{pages}{894\bibrangedash 1531}
-      \range{pages}{638}
+      \field{journaltitle}{proceedings of the fifth International Theriological Congress held in Rome, Italy,}
+      \field{langid}{english}
+      \field{title}{{Evolution of subterranean mammals at the organismal and molecular levels}}
+      \field{year}{1990}
       \keyw{bibliofull}
     \endentry
     \entry{Nevo1979}{article}{}
@@ -4764,13 +4871,14 @@
       \strng{authornamehash}{0bdd75e00218210f375ba8a59f7b3d3e}
       \strng{authorfullhash}{0bdd75e00218210f375ba8a59f7b3d3e}
       \field{extraname}{1}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Annual Review of Ecology and Systematics}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Adaptive Convergence and Divergence of Subterranean Mammals}}
       \field{year}{1979}
@@ -4806,13 +4914,14 @@
       \strng{authornamehash}{0bdd75e00218210f375ba8a59f7b3d3e}
       \strng{authorfullhash}{0bdd75e00218210f375ba8a59f7b3d3e}
       \field{extraname}{2}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Oxford University Press.}
+      \field{langid}{english}
       \field{title}{{Mosaic evolution of subterranean mammals: regression, progression, and global convergence.}}
       \field{year}{1999}
       \keyw{bibliofull}
@@ -4831,13 +4940,14 @@
       \strng{authorbibnamehash}{dcaa50144c9e98f4617daedc8658464b}
       \strng{authornamehash}{dcaa50144c9e98f4617daedc8658464b}
       \strng{authorfullhash}{dcaa50144c9e98f4617daedc8658464b}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Heredity}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Nuclear background affects frequency dynamics of mitochondrial DNA variants in Drosophila simulans}}
       \field{year}{1994}
@@ -4887,13 +4997,14 @@
       \strng{authorbibnamehash}{f1fca75e008c0f0ae47a581f3298c693}
       \strng{authornamehash}{d77d9d64d41f5328692fed82a8da76dc}
       \strng{authorfullhash}{f1fca75e008c0f0ae47a581f3298c693}
-      \field{sortinit}{O}
-      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Ecology}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{Intraspecific phylogeny and geographical variation of six species of northeastern Asiatic Sorex shrews based on the mitochondrial cytochrome b sequences}}
       \field{year}{2001}
@@ -4943,13 +5054,14 @@
       \strng{authorbibnamehash}{6a9b8c8cbdc73db4bb4b1ab5b7084bbf}
       \strng{authornamehash}{44c2eb66b27ee3afab38187664220b77}
       \strng{authorfullhash}{6a9b8c8cbdc73db4bb4b1ab5b7084bbf}
-      \field{sortinit}{P}
-      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zoologica Scripta}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Cryptic speciation in the narrow-headed vole Lasiopodomys ( Stenocranius ) gregalis (Rodentia: Cricetidae)}}
       \field{year}{2016}
@@ -5009,12 +5121,13 @@
       \strng{authorbibnamehash}{edde7ace8a92c223cbe526a1bf82a0a1}
       \strng{authornamehash}{55b72b13ff74b0acafb97613b52a9bce}
       \strng{authorfullhash}{edde7ace8a92c223cbe526a1bf82a0a1}
-      \field{sortinit}{P}
-      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{Oxidative stress during mitochondrial biogenesis compromises mtDNA integrity in growing hearts and induces a global DNA repair response}}
       \field{year}{2012}
       \field{number}{14}
@@ -5033,20 +5146,20 @@
     \endentry
     \entry{Poux2006}{article}{}
       \name{author}{5}{}{%
-        {{hash=0451c91373752db4d7efcc06c3c598d8}{%
+        {{hash=1cfa2c6b22edef680d064c8b41b59dc4}{%
            family={Poux},
            familyi={P\bibinitperiod},
-           given={Céline},
+           given={Celine},
            giveni={C\bibinitperiod}}}%
         {{hash=c3ebdf03a303de2ed37c4b81c75cd9a7}{%
            family={Chevret},
            familyi={C\bibinitperiod},
            given={Pascale},
            giveni={P\bibinitperiod}}}%
-        {{hash=5f78b391ef19f4db0475fff8aec55d10}{%
+        {{hash=5279137e31601401be423cf6816f0885}{%
            family={Huchon},
            familyi={H\bibinitperiod},
-           given={Dorothée},
+           given={Dorothee},
            giveni={D\bibinitperiod}}}%
         {{hash=4a9f8dc56a5f0249375e029a4e7e35e4}{%
            family={Jong},
@@ -5068,22 +5181,23 @@
            given={Pam},
            giveni={P\bibinitperiod}}}%
       }
-      \strng{namehash}{cd1affc26a7cde6f3dec27716cea8abb}
-      \strng{fullhash}{c17652b3da322126d03a93911612166b}
-      \strng{bibnamehash}{c17652b3da322126d03a93911612166b}
-      \strng{authorbibnamehash}{c17652b3da322126d03a93911612166b}
-      \strng{authornamehash}{cd1affc26a7cde6f3dec27716cea8abb}
-      \strng{authorfullhash}{c17652b3da322126d03a93911612166b}
+      \strng{namehash}{6e1c2112b0e0b11ce004eb94cbaf4cac}
+      \strng{fullhash}{4b1ce56da7207f61ee16aaf629ba5a5a}
+      \strng{bibnamehash}{4b1ce56da7207f61ee16aaf629ba5a5a}
+      \strng{authorbibnamehash}{4b1ce56da7207f61ee16aaf629ba5a5a}
+      \strng{authornamehash}{6e1c2112b0e0b11ce004eb94cbaf4cac}
+      \strng{authorfullhash}{4b1ce56da7207f61ee16aaf629ba5a5a}
       \strng{editorbibnamehash}{ab645812b312bf78c4b7dabfb75d8c91}
       \strng{editornamehash}{ab645812b312bf78c4b7dabfb75d8c91}
       \strng{editorfullhash}{ab645812b312bf78c4b7dabfb75d8c91}
-      \field{sortinit}{P}
-      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Systematic Biology}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{Arrival and Diversification of Caviomorph Rodents and Platyrrhine Primates in South America}}
       \field{year}{2006}
@@ -5123,41 +5237,20 @@
       \strng{authorbibnamehash}{015b1d3476830548cedfd2c342b79997}
       \strng{authornamehash}{015b1d3476830548cedfd2c342b79997}
       \strng{authorfullhash}{015b1d3476830548cedfd2c342b79997}
-      \field{sortinit}{P}
-      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{African Zoology}
+      \field{langid}{english}
       \field{title}{{The functional anatomy of the neck and forelimbs of the Cape golden mole, Chrysochloris asiatica (Lipotyphla: Chrysochloridae)}}
       \field{year}{1977}
       \field{number}{2}
       \range{number}{1}
       \field{volume}{12}
       \range{volume}{1}
-      \keyw{bibliofull}
-    \endentry
-    \entry{RCoreTeam2017}{article}{}
-      \name{author}{1}{}{%
-        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
-           family={{R Core Team}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{R: A language and environment for statistical computing}}
-      \field{year}{2017}
       \keyw{bibliofull}
     \endentry
     \entry{Rambaut2014}{article}{}
@@ -5184,12 +5277,13 @@
       \strng{authorbibnamehash}{d752433d3afd4f7a9e201af47290f280}
       \strng{authornamehash}{5de953e9c759a6041042009d978c73ce}
       \strng{authorfullhash}{d752433d3afd4f7a9e201af47290f280}
-      \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{Tracer v1. 6. Available from http://beast.bio.ed.ac.uk/Tracer}}
       \field{year}{2014}
       \keyw{bibliofull}
@@ -5218,13 +5312,14 @@
       \strng{authorbibnamehash}{f85c746adc03f5ab8259897f52299e55}
       \strng{authornamehash}{30b889d1c2c6a1c2e05844bb82a8ae38}
       \strng{authorfullhash}{f85c746adc03f5ab8259897f52299e55}
-      \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
+      \field{langid}{english}
       \field{month}{9}
       \field{title}{{Sexually Antagonistic Cytonuclear Fitness Interactions in <em>Drosophila melanogaster</em>}}
       \field{year}{2001}
@@ -5261,13 +5356,14 @@
       \strng{authorbibnamehash}{9af53ab36738230efcbb23233bcb5242}
       \strng{authornamehash}{9af53ab36738230efcbb23233bcb5242}
       \strng{authorfullhash}{9af53ab36738230efcbb23233bcb5242}
-      \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current mammalogy}
+      \field{langid}{english}
       \field{title}{{Burrows and burrowing behavior by mammals}}
       \field{year}{1990}
       \field{number}{2}
@@ -5288,13 +5384,14 @@
       \strng{authorbibnamehash}{3febf7ab1692f7e0242be9f4f8cc1e21}
       \strng{authornamehash}{3febf7ab1692f7e0242be9f4f8cc1e21}
       \strng{authorfullhash}{3febf7ab1692f7e0242be9f4f8cc1e21}
-      \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Coloquios de Paleontología}
+      \field{journaltitle}{Coloquios de Paleontologia}
+      \field{langid}{english}
       \field{title}{{Biochronology of Latest Miocene Through Pleistocene Arvicolid Rodents from the Central Great Plains of North America}}
       \field{year}{2003}
       \field{pages}{373\bibrangedash 383}
@@ -5322,13 +5419,14 @@
       \strng{authorbibnamehash}{049696d5802b1baf9c233b8bc50ad44d}
       \strng{authornamehash}{049696d5802b1baf9c233b8bc50ad44d}
       \strng{authorfullhash}{049696d5802b1baf9c233b8bc50ad44d}
-      \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Ecology \& Evolution}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{Harnessing genomics for evolutionary insights}}
       \field{year}{2009}
@@ -5410,13 +5508,14 @@
       \strng{authorbibnamehash}{3e13999598e02542beace9aeac4b18fc}
       \strng{authornamehash}{960810414c02b0602c2aa6861b8e8e34}
       \strng{authorfullhash}{3e13999598e02542beace9aeac4b18fc}
-      \field{sortinit}{R}
-      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Systematic Biology}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space}}
       \field{year}{2012}
@@ -5479,13 +5578,14 @@
       \strng{authorbibnamehash}{7ea5c36026749ad2da557cf949562f32}
       \strng{authornamehash}{e183a59f912ca6a4886555aa728effd1}
       \strng{authorfullhash}{7ea5c36026749ad2da557cf949562f32}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Evolution of the mitochondrial genetic system: an overview}}
       \field{year}{2000}
@@ -5563,13 +5663,14 @@
       \strng{authorbibnamehash}{e72691549fea9fcd626f62a75f6b1674}
       \strng{authornamehash}{b2c71a378b292c0b721f15f6d4ff414e}
       \strng{authorfullhash}{e72691549fea9fcd626f62a75f6b1674}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{title}{{Mutation-Driven Parallel Evolution during Viral Adaptation}}
       \field{year}{2017}
       \field{number}{12}
@@ -5626,13 +5727,14 @@
       \strng{authorbibnamehash}{f4c324196ec748bd989db9820dc34b7e}
       \strng{authornamehash}{1fcea82c88bf1484bc8acc3cd26bf6f0}
       \strng{authorfullhash}{f4c324196ec748bd989db9820dc34b7e}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Environmental Science \& Technology}
+      \field{langid}{english}
       \field{month}{2}
       \field{title}{{Differential Survival of Three Mitochondrial Lineages of a Marine Benthic Copepod Exposed to a Pesticide Mixture}}
       \field{year}{2001}
@@ -5655,25 +5757,26 @@
     \endentry
     \entry{Schropfer1977}{article}{}
       \name{author}{1}{}{%
-        {{hash=397388ee3d80a2a6d99b208c9d7c7935}{%
-           family={Schröpfer},
+        {{hash=83b48edee917d6c6598c83fbc3b91cbe}{%
+           family={Schropfer},
            familyi={S\bibinitperiod},
            given={R.},
            giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{397388ee3d80a2a6d99b208c9d7c7935}
-      \strng{fullhash}{397388ee3d80a2a6d99b208c9d7c7935}
-      \strng{bibnamehash}{397388ee3d80a2a6d99b208c9d7c7935}
-      \strng{authorbibnamehash}{397388ee3d80a2a6d99b208c9d7c7935}
-      \strng{authornamehash}{397388ee3d80a2a6d99b208c9d7c7935}
-      \strng{authorfullhash}{397388ee3d80a2a6d99b208c9d7c7935}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \strng{namehash}{83b48edee917d6c6598c83fbc3b91cbe}
+      \strng{fullhash}{83b48edee917d6c6598c83fbc3b91cbe}
+      \strng{bibnamehash}{83b48edee917d6c6598c83fbc3b91cbe}
+      \strng{authorbibnamehash}{83b48edee917d6c6598c83fbc3b91cbe}
+      \strng{authornamehash}{83b48edee917d6c6598c83fbc3b91cbe}
+      \strng{authorfullhash}{83b48edee917d6c6598c83fbc3b91cbe}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bonn Zool Beitr}
+      \field{langid}{english}
       \field{title}{{Die Postnatale Entwicklung Der Kleinwühlmaus, Pitymys Subterraneus De Selys-Longchamps, 1836 (Rodentia, Cricetidae).}}
       \field{year}{1977}
       \field{pages}{249\bibrangedash 268}
@@ -5707,14 +5810,15 @@
       \strng{authornamehash}{a24ecfb9d395e0857c69c0964c21ee8b}
       \strng{authorfullhash}{b5df340d5aec59328cbcb64f8a353c6c}
       \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part A: Molecular \& Integrative Physiology}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Oxygen and carbon dioxide fluctuations in burrows of subterranean blind mole rats indicate tolerance to hypoxic–hypercapnic stresses}}
       \field{year}{2005}
@@ -5760,14 +5864,15 @@
       \strng{authornamehash}{a24ecfb9d395e0857c69c0964c21ee8b}
       \strng{authorfullhash}{3b5bb0eb27b4b906ef76c8bb4d170476}
       \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The FASEB Journal}
+      \field{langid}{english}
       \field{month}{2}
       \field{title}{{Ontogenetic expression of erythropoietin and hypoxia‐inducible factor‐1 alpha genes in subterranean blind mole rats}}
       \field{year}{2005}
@@ -5835,13 +5940,14 @@
       \strng{authorbibnamehash}{4f6e5b75192ab2fa44ae0e4f7cbddee9}
       \strng{authornamehash}{0ecc1339d549e861c0bd70e2be8190b4}
       \strng{authorfullhash}{4f6e5b75192ab2fa44ae0e4f7cbddee9}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Scientific Reports}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Genetic adaptations of the plateau zokor in high-elevation burrows}}
       \field{year}{2015}
@@ -5904,13 +6010,14 @@
       \strng{authorbibnamehash}{fe92e2f5d184ae1e766a3dff70b31de3}
       \strng{authornamehash}{eeb358184c3ae2259e32b2fffbcf6acf}
       \strng{authorfullhash}{fe92e2f5d184ae1e766a3dff70b31de3}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{Adaptive evolution of energy metabolism genes and the origin of flight in bats}}
       \field{year}{2010}
@@ -5932,6 +6039,37 @@
       \verb{url}
       \verb http://www.pnas.org/cgi/doi/10.1073/pnas.0912613107
       \endverb
+      \keyw{bibliofull}
+    \endentry
+    \entry{Shubin1978}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=60b9dd68b1ba80ba7205c8781a5c821d}{%
+           family={Shubin},
+           familyi={S\bibinitperiod},
+           given={I.G.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publishing House Nauka of Kazakh SSR: Almaata}%
+      }
+      \strng{namehash}{60b9dd68b1ba80ba7205c8781a5c821d}
+      \strng{fullhash}{60b9dd68b1ba80ba7205c8781a5c821d}
+      \strng{bibnamehash}{60b9dd68b1ba80ba7205c8781a5c821d}
+      \strng{authorbibnamehash}{60b9dd68b1ba80ba7205c8781a5c821d}
+      \strng{authornamehash}{60b9dd68b1ba80ba7205c8781a5c821d}
+      \strng{authorfullhash}{60b9dd68b1ba80ba7205c8781a5c821d}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mammals of Kazakhstan}
+      \field{langid}{english}
+      \field{title}{{The mole voles (Ellobius)}}
+      \field{year}{1978}
+      \field{pages}{188\bibrangedash 207}
+      \range{pages}{20}
       \keyw{bibliofull}
     \endentry
     \entry{Smith2015}{article}{}
@@ -5973,13 +6111,14 @@
       \strng{authorbibnamehash}{920a0ac080227472029b4b77d8f600b5}
       \strng{authornamehash}{90722f46bc816c33c92b959ff41b46f9}
       \strng{authorfullhash}{920a0ac080227472029b4b77d8f600b5}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{Less Is More: An Adaptive Branch-Site Random Effects Model for Efficient Detection of Episodic Diversifying Selection}}
       \field{year}{2015}
@@ -6024,13 +6163,14 @@
       \strng{authorbibnamehash}{90d187a4c295dd7c25cd1e1a2728cfd1}
       \strng{authornamehash}{f96cd9b5ffbee2b1a9836e34cd9cb900}
       \strng{authorfullhash}{90d187a4c295dd7c25cd1e1a2728cfd1}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zoologicheskii Zhurnal}
+      \field{langid}{english}
       \field{title}{{Ecology of the Chinese Vole Lasiopodomys Mandarinus (Rodentia, Cricetidae) in Transbaikalia.}}
       \field{year}{1990}
       \field{pages}{115\bibrangedash 124}
@@ -6053,13 +6193,14 @@
       \strng{authorbibnamehash}{fa9cb11fc0196cb2a4dac60fa1bb9926}
       \strng{authornamehash}{fa9cb11fc0196cb2a4dac60fa1bb9926}
       \strng{authorfullhash}{fa9cb11fc0196cb2a4dac60fa1bb9926}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bioinformatics}
+      \field{langid}{english}
       \field{month}{5}
       \field{title}{{RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies}}
       \field{year}{2014}
@@ -6139,13 +6280,14 @@
       \strng{authorbibnamehash}{f2c4ffd9eac4bd26de109e0781ffbe2a}
       \strng{authornamehash}{0a33538d530354bcc629e833bb482280}
       \strng{authorfullhash}{f2c4ffd9eac4bd26de109e0781ffbe2a}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Trends in Ecology \& Evolution}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Adaptation genomics: the next generation}}
       \field{year}{2010}
@@ -6195,13 +6337,14 @@
       \strng{editorbibnamehash}{5279137e31601401be423cf6816f0885}
       \strng{editornamehash}{5279137e31601401be423cf6816f0885}
       \strng{editorfullhash}{5279137e31601401be423cf6816f0885}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLOS ONE}
+      \field{langid}{english}
       \field{month}{8}
       \field{title}{{Muroid rodent phylogenetics: 900-species tree reveals increasing diversification rates}}
       \field{year}{2017}
@@ -6238,13 +6381,14 @@
       \strng{authorbibnamehash}{ec7b6c0a427227b17d4e3920cfa9c3b3}
       \strng{authornamehash}{ec7b6c0a427227b17d4e3920cfa9c3b3}
       \strng{authorfullhash}{ec7b6c0a427227b17d4e3920cfa9c3b3}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Heredity}
+      \field{langid}{english}
       \field{month}{12}
       \field{title}{{Nonrandom partition of mitochondria in heteroplasmic Drosophila}}
       \field{year}{1997}
@@ -6300,13 +6444,14 @@
       \strng{authornamehash}{4b49c31e06cbbf747a8e4dfcfad191a6}
       \strng{authorfullhash}{dd8f69eb33ee918a284759bbae886592}
       \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Chronobiology International}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{Expression patterns of clock genes in the hypothalamus and eye of two Lasiopodomys species}}
       \field{year}{2020}
@@ -6370,14 +6515,15 @@
       \strng{authornamehash}{4b49c31e06cbbf747a8e4dfcfad191a6}
       \strng{authorfullhash}{835cfc14504b9ed116be0ce0c9d0b654}
       \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Biological Macromolecules}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{Evolution of circadian genes PER and CRY in subterranean rodents}}
       \field{year}{2018}
@@ -6439,14 +6585,15 @@
       \strng{authornamehash}{4b49c31e06cbbf747a8e4dfcfad191a6}
       \strng{authorfullhash}{b228aa147bf46df97e95fc087cf9b5c8}
       \field{extraname}{3}
-      \field{sortinit}{S}
-      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Biological Macromolecules}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{Evolution of the CLOCK and BMAL1 genes in a subterranean rodent species (Lasiopodomys mandarinus)}}
       \field{year}{2018}
@@ -6499,13 +6646,14 @@
       \strng{authorbibnamehash}{8b3f9aa054ebe7d69083751dc8f49cb4}
       \strng{authornamehash}{e470478c4838605dcfb5f397263f2523}
       \strng{authorfullhash}{8b3f9aa054ebe7d69083751dc8f49cb4}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Genetics}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Replicative Advantage and Tissue-Specific Segregation of RR Mitochondrial DNA Between C57BL/6 and RR Heteroplasmic Mice}}
       \field{year}{2000}
@@ -6542,13 +6690,14 @@
       \strng{authorbibnamehash}{150a3f35a50d8dc9840f284d86d16cf8}
       \strng{authornamehash}{150a3f35a50d8dc9840f284d86d16cf8}
       \strng{authorfullhash}{150a3f35a50d8dc9840f284d86d16cf8}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{0123456789}
+      \field{langid}{english}
       \field{title}{{Changes in selection intensity on the mitogenome of subterranean and fossorial rodents respective to aboveground species}}
       \field{year}{2018}
       \field{pages}{353\bibrangedash 363}
@@ -6571,30 +6720,31 @@
     \endentry
     \entry{THOMASSTEVENP.SUTHERS1972}{article}{}
       \name{author}{2}{}{%
-        {{hash=1afd11bd67bcda3ab25d8bdb61e73ee5}{%
+        {{hash=6313ab739c07d3d69fa1f26504b8e235}{%
            family={Thomas},
            familyi={T\bibinitperiod},
-           given={STEVEN},
+           given={Steven},
            giveni={S\bibinitperiod}}}%
-        {{hash=79f320cf6b707d90b37b29acaa7c6479}{%
+        {{hash=c788d5bc674201d3ad8391958676af02}{%
            family={Suther},
            familyi={S\bibinitperiod},
-           given={RODERICK},
+           given={Roderick},
            giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{7e44d321a630ca35d8e5a9067d6c2c62}
-      \strng{fullhash}{7e44d321a630ca35d8e5a9067d6c2c62}
-      \strng{bibnamehash}{7e44d321a630ca35d8e5a9067d6c2c62}
-      \strng{authorbibnamehash}{7e44d321a630ca35d8e5a9067d6c2c62}
-      \strng{authornamehash}{7e44d321a630ca35d8e5a9067d6c2c62}
-      \strng{authorfullhash}{7e44d321a630ca35d8e5a9067d6c2c62}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \strng{namehash}{24859748b48f51064ed4b5934a592a3e}
+      \strng{fullhash}{24859748b48f51064ed4b5934a592a3e}
+      \strng{bibnamehash}{24859748b48f51064ed4b5934a592a3e}
+      \strng{authorbibnamehash}{24859748b48f51064ed4b5934a592a3e}
+      \strng{authornamehash}{24859748b48f51064ed4b5934a592a3e}
+      \strng{authorfullhash}{24859748b48f51064ed4b5934a592a3e}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Biology}
+      \field{langid}{english}
       \field{title}{{The Physiology and Energetics of Bat Flight}}
       \field{year}{1972}
       \field{number}{57}
@@ -6626,13 +6776,14 @@
       \strng{authornamehash}{016e5a821bbb8edcdd022cbb9d063ca7}
       \strng{authorfullhash}{016e5a821bbb8edcdd022cbb9d063ca7}
       \field{extraname}{1}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Phylogenetics and Evolution}
+      \field{langid}{english}
       \field{month}{10}
       \field{title}{{The evolution of mitochondrial genomes in subterranean caviomorph rodents: Adaptation against a background of purifying selection}}
       \field{year}{2011}
@@ -6679,13 +6830,14 @@
       \strng{authornamehash}{016e5a821bbb8edcdd022cbb9d063ca7}
       \strng{authorfullhash}{016e5a821bbb8edcdd022cbb9d063ca7}
       \field{extraname}{2}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{Two mitochondrial genes under episodic positive selection in subterranean octodontoid rodents}}
       \field{year}{2014}
@@ -6723,13 +6875,14 @@
       \strng{authorbibnamehash}{08be40d6eb67b12e2e27a4996c395e3e}
       \strng{authornamehash}{08be40d6eb67b12e2e27a4996c395e3e}
       \strng{authorfullhash}{08be40d6eb67b12e2e27a4996c395e3e}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Morphology}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{The digging behavior and skin differentiations inHeterocephalus glaber}}
       \field{year}{1981}
@@ -6764,12 +6917,13 @@
       \strng{authorbibnamehash}{9f3c81958e1afb662ae0ecf09336ee85}
       \strng{authornamehash}{9f3c81958e1afb662ae0ecf09336ee85}
       \strng{authorfullhash}{9f3c81958e1afb662ae0ecf09336ee85}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{Mitochondrial formation of reactive oxygen species}}
       \field{year}{2003}
       \field{pages}{335\bibrangedash 344}
@@ -6798,13 +6952,14 @@
       \strng{authorbibnamehash}{4d4be048f0efcd17c0592d664cd60177}
       \strng{authornamehash}{4d4be048f0efcd17c0592d664cd60177}
       \strng{authorfullhash}{4d4be048f0efcd17c0592d664cd60177}
-      \field{sortinit}{V}
-      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physiological Zoology}
+      \field{langid}{english}
       \field{month}{4}
       \field{title}{{The Energy Cost of Burrowing by the Pocket Gopher Thomomys bottae}}
       \field{year}{1979}
@@ -6823,35 +6978,6 @@
       \verb{url}
       \verb https://www.journals.uchicago.edu/doi/10.1086/physzool.52.2.30152558
       \endverb
-      \keyw{bibliofull}
-    \endentry
-    \entry{Vorontsov1966}{article}{}
-      \name{author}{1}{}{%
-        {{hash=5b3369f223fda3d37d1f885fd9c0e4d8}{%
-           family={Vorontsov},
-           familyi={V\bibinitperiod},
-           given={N.N.},
-           giveni={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
-      \strng{fullhash}{5b3369f223fda3d37d1f885fd9c0e4d8}
-      \strng{bibnamehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
-      \strng{authorbibnamehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
-      \strng{authornamehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
-      \strng{authorfullhash}{5b3369f223fda3d37d1f885fd9c0e4d8}
-      \field{sortinit}{V}
-      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Zoologicheskii Zhurnal}
-      \field{title}{{New Data on the Biology and Taxonomic Position of the Long-Clawed Mole Vole (Prometheomys Schaposchnikovi Satunin, 1901).}}
-      \field{year}{1966}
-      \field{pages}{619\bibrangedash 623}
-      \range{pages}{5}
-      \field{volume}{45}
-      \range{volume}{1}
       \keyw{bibliofull}
     \endentry
     \entry{Webb2016}{article}{}
@@ -6873,13 +6999,14 @@
       \strng{authorbibnamehash}{07146ac71250c8a199d0bd5cb39fe3a4}
       \strng{authornamehash}{07146ac71250c8a199d0bd5cb39fe3a4}
       \strng{authorfullhash}{07146ac71250c8a199d0bd5cb39fe3a4}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Current Protocols in Bioinformatics}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Comparative Protein Structure Modeling Using MODELLER}}
       \field{year}{2016}
@@ -6927,13 +7054,14 @@
       \strng{authorbibnamehash}{1656fb41c26ad5596bdae86f4f7a1299}
       \strng{authornamehash}{40a9ef592ee5764e7651ead04c001aef}
       \strng{authorfullhash}{1656fb41c26ad5596bdae86f4f7a1299}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Comparative Biochemistry and Physiology Part A: Molecular \& Integrative Physiology}
+      \field{langid}{english}
       \field{month}{11}
       \field{title}{{Blood-gas properties of plateau zokor (Myospalax baileyi)}}
       \field{year}{2006}
@@ -6991,13 +7119,14 @@
       \strng{authorbibnamehash}{4451d90cdbecdf8e18e0da5b90806606}
       \strng{authornamehash}{7cb5649032fa6acfe6c639e3354dffed}
       \strng{authorfullhash}{4451d90cdbecdf8e18e0da5b90806606}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{RELAX: Detecting Relaxed Selection in a Phylogenetic Framework}}
       \field{year}{2015}
@@ -7032,13 +7161,14 @@
       \strng{authorbibnamehash}{43a31de89bd506252787ce2859d13818}
       \strng{authornamehash}{43a31de89bd506252787ce2859d13818}
       \strng{authorfullhash}{43a31de89bd506252787ce2859d13818}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physiological and Biochemical Zoology}
+      \field{langid}{english}
       \field{month}{1}
       \field{title}{{The Influence of Foraging Mode and Arid Adaptation on the Basal Metabolic Rates of Burrowing Mammals}}
       \field{year}{2003}
@@ -7093,13 +7223,14 @@
       \strng{authorbibnamehash}{5f274bd8d2bd83e14a53c7870cff1b47}
       \strng{authornamehash}{f104099cecebbcfb6ddea772cbac694e}
       \strng{authorfullhash}{5f274bd8d2bd83e14a53c7870cff1b47}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{Working underground: Respiratory adaptations in the blind mole rat}}
       \field{year}{1997}
@@ -7154,13 +7285,14 @@
       \strng{authorbibnamehash}{375455bea8f900fd4a4c310f538e5664}
       \strng{authornamehash}{577c70baa762d64bd56d93ee2435908f}
       \strng{authorfullhash}{375455bea8f900fd4a4c310f538e5664}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bioinformatics}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{TreeSAAP: Selection on Amino Acid Properties using phylogenetic trees}}
       \field{year}{2003}
@@ -7205,13 +7337,14 @@
       \strng{authorbibnamehash}{bad8a16ebcc508d47d7d0e663a0ea033}
       \strng{authornamehash}{3740d87c1bea3098d218f78fbdd7e243}
       \strng{authorfullhash}{bad8a16ebcc508d47d7d0e663a0ea033}
-      \field{sortinit}{X}
-      \field{sortinithash}{e90038f30fa4b9ce59606fc8347e3cc7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Molecular Evolution}
+      \field{langid}{english}
       \field{title}{{On Transition Bias in Mitochondrial Genes of Pocket Gophers}}
       \field{year}{1996}
       \field{pages}{32\bibrangedash 40}
@@ -7279,13 +7412,14 @@
       \strng{authorbibnamehash}{be923c2046583ca024f6e5ec900b74c9}
       \strng{authornamehash}{bf488af66c345735a2a3cbd9cbb4a2f5}
       \strng{authorfullhash}{be923c2046583ca024f6e5ec900b74c9}
-      \field{sortinit}{X}
-      \field{sortinithash}{e90038f30fa4b9ce59606fc8347e3cc7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Protein Engineering Design and Selection}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{GPS 2.1: enhanced prediction of kinase-specific phosphorylation sites with an algorithm of motif length selection}}
       \field{year}{2011}
@@ -7320,13 +7454,14 @@
       \strng{authorbibnamehash}{ea661043b4e7e504db61e68f4ae5e872}
       \strng{authornamehash}{ea661043b4e7e504db61e68f4ae5e872}
       \strng{authorfullhash}{ea661043b4e7e504db61e68f4ae5e872}
-      \field{sortinit}{Y}
-      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Zoology}
+      \field{langid}{english}
       \field{month}{8}
       \field{title}{{The anatomy of mole locomotion}}
       \field{year}{2009}
@@ -7366,13 +7501,14 @@
       \strng{authorbibnamehash}{f43d0c342fc1651550a95af7648d9edc}
       \strng{authornamehash}{f43d0c342fc1651550a95af7648d9edc}
       \strng{authorfullhash}{f43d0c342fc1651550a95af7648d9edc}
-      \field{sortinit}{Y}
-      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular Biology and Evolution}
+      \field{langid}{english}
       \field{month}{6}
       \field{title}{{Codon-Substitution Models for Detecting Molecular Adaptation at Individual Sites Along Specific Lineages}}
       \field{year}{2002}
@@ -7428,14 +7564,15 @@
       \strng{authornamehash}{e45b8b432900977cd9cc4e6630ca865e}
       \strng{authorfullhash}{565464635ded23f304b40918371e9c7f}
       \field{extraname}{1}
-      \field{sortinit}{Z}
-      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PloS one}
+      \field{langid}{english}
       \field{title}{{Rapidly Evolving Genes and Stress Adaptation of Two Desert Poplars , Populus euphratica and P . pruinosa}}
       \field{year}{2013}
       \field{number}{6}
@@ -7490,14 +7627,15 @@
       \strng{authornamehash}{339a74bae54921203203b64704a3bfdb}
       \strng{authorfullhash}{ca6f7126c77078f74b64a89dd09d3a22}
       \field{extraname}{2}
-      \field{sortinit}{Z}
-      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zoologischer Anzeiger - A Journal of Comparative Zoology}
+      \field{langid}{english}
       \field{month}{3}
       \field{title}{{Cytochrome b gene selection of subterranean rodent Gansu zokor Eospalax cansus (Rodentia, Spalacidae)}}
       \field{year}{2013}
@@ -7545,12 +7683,13 @@
       \strng{authorbibnamehash}{a7560693f14f159453fa43faf0f18d3f}
       \strng{authornamehash}{524c7a3dc0c001d7a036ff79f90d9b96}
       \strng{authorfullhash}{a7560693f14f159453fa43faf0f18d3f}
-      \field{sortinit}{Z}
-      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{sortinit}{e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{langid}{english}
       \field{title}{{Convergent evolution of marine mammals is associated with distinct substitutions in common genes OPEN}}
       \field{year}{2015}
       \verb{doi}
@@ -7567,79 +7706,142 @@
       \endverb
       \keyw{bibliofull}
     \endentry
-    \entry{Vereshchagin1959}{book}{}
+    \entry{Musser2005}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=072bf73fba6848318754a7945ac79cad}{%
-           family={Верещагин},
-           familyi={В\bibinitperiod},
-           given={Н.К.},
-           giveni={Н\bibinitperiod}}}%
+        {{hash=06b39d179f913121737794a8c30eacf3}{%
+           family={Musser},
+           familyi={M\bibinitperiod},
+           given={Guy\bibnamedelima G},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {АН ССР: Иерусалим}%
-      }
-      \strng{namehash}{072bf73fba6848318754a7945ac79cad}
-      \strng{fullhash}{072bf73fba6848318754a7945ac79cad}
-      \strng{bibnamehash}{072bf73fba6848318754a7945ac79cad}
-      \strng{authorbibnamehash}{072bf73fba6848318754a7945ac79cad}
-      \strng{authornamehash}{072bf73fba6848318754a7945ac79cad}
-      \strng{authorfullhash}{072bf73fba6848318754a7945ac79cad}
-      \field{sortinit}{В}
-      \field{sortinithash}{902012ffa0e35aa229c9a3d688e40f89}
+      \strng{namehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{fullhash}{06b39d179f913121737794a8c30eacf3}
+      \strng{bibnamehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{authorbibnamehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{authornamehash}{06b39d179f913121737794a8c30eacf3}
+      \strng{authorfullhash}{06b39d179f913121737794a8c30eacf3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Млекопитающие Кавказа. История формирования фауны}}
+      \field{booktitle}{Mammal species of the world}
+      \field{title}{{Superfamily muroidea}}
+      \field{year}{2005}
+      \field{pages}{894\bibrangedash 1531}
+      \range{pages}{638}
+      \keyw{bibliofull}
+    \endentry
+    \entry{RCoreTeam2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R: A language and environment for statistical computing}}
+      \field{year}{2017}
+      \keyw{bibliofull}
+    \endentry
+    \entry{Vereshchagin1959}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e726d0dbbd734fac9930c1bf984ad19}{%
+           family={Vereshchagin},
+           familyi={V\bibinitperiod},
+           given={N.K.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publ. Acad. Nauk USSR: Jerusalem}%
+      }
+      \strng{namehash}{6e726d0dbbd734fac9930c1bf984ad19}
+      \strng{fullhash}{6e726d0dbbd734fac9930c1bf984ad19}
+      \strng{bibnamehash}{6e726d0dbbd734fac9930c1bf984ad19}
+      \strng{authorbibnamehash}{6e726d0dbbd734fac9930c1bf984ad19}
+      \strng{authornamehash}{6e726d0dbbd734fac9930c1bf984ad19}
+      \strng{authorfullhash}{6e726d0dbbd734fac9930c1bf984ad19}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The mammals of the Caucasus; a history of the evolution of the fauna.}}
       \field{year}{1959}
       \keyw{bibliofull}
     \endentry
-    \entry{Gambaryan1957}{article}{}
-      \name{author}{5}{}{%
-        {{hash=a8d6d0e6140dbd3106cc83f4381a658c}{%
-           family={Гамбарян},
-           familyi={Г\bibinitperiod},
-           given={П.\bibnamedelimi П.},
-           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
-        {{hash=2d1c8379592a61c2eeead4c69a2ca4d1}{%
-           family={Карапетян},
-           familyi={К\bibinitperiod},
-           given={В.\bibnamedelimi С.},
-           giveni={В\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
-        {{hash=644f861e62348aa03506bf4fafda29a9}{%
-           family={Айрумян},
-           familyi={А\bibinitperiod},
-           given={К.\bibnamedelimi А.},
-           giveni={К\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
-        {{hash=1d861195869a62acf8e2af2f30aa62c0}{%
-           family={Казарян},
-           familyi={К\bibinitperiod},
-           given={К.\bibnamedelimi Г.},
-           giveni={К\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
-        {{hash=dd953a502b6af5ff83059572242d9b80}{%
-           family={Межлумян},
-           familyi={М\bibinitperiod},
-           given={С.\bibnamedelimi К.},
-           giveni={С\bibinitperiod\bibinitdelim К\bibinitperiod}}}%
+    \entry{Vorontsov1966}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5b3369f223fda3d37d1f885fd9c0e4d8}{%
+           family={Vorontsov},
+           familyi={V\bibinitperiod},
+           given={N.N.},
+           giveni={N\bibinitperiod}}}%
       }
-      \strng{namehash}{7cee805710207a7f90cf1b0f12648d44}
-      \strng{fullhash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
-      \strng{bibnamehash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
-      \strng{authorbibnamehash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
-      \strng{authornamehash}{7cee805710207a7f90cf1b0f12648d44}
-      \strng{authorfullhash}{0e52dc8f8ce1042f1f32d8b5003d68b3}
-      \field{sortinit}{Г}
-      \field{sortinithash}{c9e4758aa7cb8c39f466c3722a70f6ee}
+      \strng{namehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
+      \strng{fullhash}{5b3369f223fda3d37d1f885fd9c0e4d8}
+      \strng{bibnamehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
+      \strng{authorbibnamehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
+      \strng{authornamehash}{5b3369f223fda3d37d1f885fd9c0e4d8}
+      \strng{authorfullhash}{5b3369f223fda3d37d1f885fd9c0e4d8}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Зоологический сборник}
-      \field{title}{{К экологии прометеевой полевки Prometheomys schaposchnikovi sat}}
-      \field{year}{1957}
-      \field{number}{5\bibrangedash 16}
-      \range{number}{12}
-      \field{volume}{10}
+      \field{journaltitle}{Zoologicheskii Zhurnal}
+      \field{title}{{New Data on the Biology and Taxonomic Position of the Long-Clawed Mole Vole (Prometheomys Schaposchnikovi Satunin, 1901).}}
+      \field{year}{1966}
+      \field{pages}{619\bibrangedash 623}
+      \range{pages}{5}
+      \field{volume}{45}
+      \range{volume}{1}
+      \keyw{bibliofull}
+    \endentry
+    \entry{Zimina1977}{article}{}
+      \name{author}{2}{}{%
+        {{hash=faddb47767edbd58b749258f9d179542}{%
+           family={Zimina},
+           familyi={Z\bibinitperiod},
+           given={R.P.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=607dc4f4afa9c23c3ad7e90618ba2e30}{%
+           family={Yasny},
+           familyi={Y\bibinitperiod},
+           given={E.V.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff8e1d9fb77c232b520b0d613493ddab}
+      \strng{fullhash}{ff8e1d9fb77c232b520b0d613493ddab}
+      \strng{bibnamehash}{ff8e1d9fb77c232b520b0d613493ddab}
+      \strng{authorbibnamehash}{ff8e1d9fb77c232b520b0d613493ddab}
+      \strng{authornamehash}{ff8e1d9fb77c232b520b0d613493ddab}
+      \strng{authorfullhash}{ff8e1d9fb77c232b520b0d613493ddab}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zool Zhurnal}
+      \field{title}{{Observations on the Ecology of the Long-Clawed Mole Vole.}}
+      \field{year}{1977}
+      \field{pages}{24\bibrangedash 30}
+      \range{pages}{7}
+      \field{volume}{82}
       \range{volume}{1}
       \keyw{bibliofull}
     \endentry
@@ -7705,40 +7907,6 @@
       \field{year}{1977}
       \keyw{bibliofull}
     \endentry
-    \entry{Zimina1977}{article}{}
-      \name{author}{2}{}{%
-        {{hash=e399344db091511e38307bb48e0dc341}{%
-           family={Зимина},
-           familyi={З\bibinitperiod},
-           given={Р.П.},
-           giveni={Р\bibinitperiod}}}%
-        {{hash=bf080ce64c353ac3d8f969c99345c571}{%
-           family={Ясный},
-           familyi={Я\bibinitperiod},
-           given={Е.В.},
-           giveni={Е\bibinitperiod}}}%
-      }
-      \strng{namehash}{3dbe573d4a59641753266381138211f2}
-      \strng{fullhash}{3dbe573d4a59641753266381138211f2}
-      \strng{bibnamehash}{3dbe573d4a59641753266381138211f2}
-      \strng{authorbibnamehash}{3dbe573d4a59641753266381138211f2}
-      \strng{authornamehash}{3dbe573d4a59641753266381138211f2}
-      \strng{authorfullhash}{3dbe573d4a59641753266381138211f2}
-      \field{sortinit}{З}
-      \field{sortinithash}{4c89ca29cf4f4eaa9b7400e9f23b3925}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Экология, методы изучения и организация охраны мелких млекопитающих горных областей.}
-      \field{title}{{Новые находки редких млекопитающих на Большом Кавказе}}
-      \field{year}{1977}
-      \field{pages}{63\bibrangedash 64}
-      \range{pages}{2}
-      \field{volume}{82}
-      \range{volume}{1}
-      \keyw{bibliofull}
-    \endentry
     \entry{Ognev1950}{incollection}{}
       \name{author}{1}{}{%
         {{hash=510f7e944413a55a0f6743d029dc69ea}{%
@@ -7767,34 +7935,6 @@
       \field{year}{1950}
       \field{pages}{17\bibrangedash 49}
       \range{pages}{33}
-      \keyw{bibliofull}
-    \endentry
-    \entry{Shubin1978}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=e595e6c81c73b9771b90bacd001b467c}{%
-           family={{Шубин И.Г.}},
-           familyi={Ш\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Алма-Ата}%
-      }
-      \strng{namehash}{e595e6c81c73b9771b90bacd001b467c}
-      \strng{fullhash}{e595e6c81c73b9771b90bacd001b467c}
-      \strng{bibnamehash}{e595e6c81c73b9771b90bacd001b467c}
-      \strng{authorbibnamehash}{e595e6c81c73b9771b90bacd001b467c}
-      \strng{authornamehash}{e595e6c81c73b9771b90bacd001b467c}
-      \strng{authorfullhash}{e595e6c81c73b9771b90bacd001b467c}
-      \field{sortinit}{Ш}
-      \field{sortinithash}{d189e61cca702995d3d6a5e65d6273a8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Млекопитающие Казахстана}
-      \field{title}{{Род Слепушонки – Ellobius Fischer, 1814}}
-      \field{year}{1978}
-      \field{pages}{188\bibrangedash 207}
-      \range{pages}{20}
       \keyw{bibliofull}
     \endentry
   \enddatalist
